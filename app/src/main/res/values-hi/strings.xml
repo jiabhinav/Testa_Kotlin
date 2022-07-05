@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TESTA</string>
+    <string name="Mark_Your_Atten_Welcome">अगले पृष्ठ पर अपनी उपस्थिति को चिह्नित करें और मूल्यांकन शुरू करने के लिए निर्देशों का पालन करें।</string>
+
+    <string name="welcome_back">नमस्ते !!!</string>
+    <string name="skip">छोड़ें</string>
+    <string name="login">लॉग इन</string>
+    <string name="email">उपयोगकर्ता का नाम</string>
+    <string name="password">पासवर्ड</string>
+
+    <!--Date of change 13/8/2019 -->
+    <string name="Update_Profile"><u>प्रोफाइल अपडेट करे</u></string>
+    <string name="formats">फॉर्मेट</string>
+
+    <string name="choose_formats">फॉर्मेट चुने </string>
+    <string name="select_camera">कैमरा चुने</string>
+    <string name="ok_button">ओके</string>
+    <string name="cancel_button">कैंसिल</string>
+
+    <!-- hint name of field -->
+    <string name="line1">परीक्षा की कुल अवधि थ्योरी परीक्षा के लिए और %1$s के लिए परीक्षा पैनल पर उल्लिखित है.</string>
+    <string name="line22"><b>सभी प्रश्न अनिवार्य है। आगे बढ़ने के लिए आपको सभी प्रश्नों का उतर देना होगा।</b></string>
+    <string name="line2">स्क्रीन के ऊपर की दाई तरफ आपके एग्जाम का बचा हुआ समय प्रदर्शित होगा।</string>
+    <string name="line3">स्क्रीन के दाईं ओर प्रदर्शित प्रश्न पैलेट में निम्न प्रतीकों में से किसी एक का उपयोग करके प्रत्येक प्रश्न की स्थिति दिखाई जाएगी:</string>
+    <string name="line4">यदि उम्मीदवार ने प्रश्न का उत्तर नहीं दिया, तो परीक्षा जमा नहीं होगी।</string>
+    <string name="line5">कोई नकारात्मक अंकन नहीं होगा।</string>
+    <string name="line6">एक प्रश्न का उत्तर देने के लिए, निम्नलिखित करें:</string>
+    <string name="line7">सीधे प्रश्न संख्या पर जाने के लिए अपनी स्क्रीन के दाईं ओर प्रश्न पैलेट में प्रश्न संख्या पर क्लिक करें ध्यान दें कि इस विकल्प का उपयोग करने से वर्तमान प्रश्न का उत्तर सेव नहीं होता है।</string>
+    <string name="line8">किसी भी प्रश्न को रिव्यु करने के लिए <b>मार्क फॉर रिव्यु</b>पर क्लिक करे।</string>
+    <string name="line9">बहुविकल्पी प्रकार के प्रश्न का उत्तर देने की प्रक्रिया।:</string>
+    <string name="line10">अपने उत्तर का चयन करने के लिए, किसी एक प्रश्न के बटन पर क्लिक करें।</string>
+    <string name="line11">प्रश्नों के बीच जाने के लिए स्किप, प्रीवियस या नेक्स्ट पर क्लिक करें।</string>
+    <string name="line13">परीक्षा के बीच में एप्लीकेशन न छोड़ें अन्यथा परीक्षा प्रस्तुत नहीं की जाएगी।</string>
+
+    <string name="rplintro"> •अनौपचारिक शिक्षा को मान्यता प्रदान करने के लिए PMKVY के तहत एक प्रमाणन कार्यक्रम। ।</string>
+
+    <string name="rplintro2"> • शिक्षा के औपचारिक स्तरों के समान स्वीकृति प्राप्त करने के लिए अनौपचारिक शिक्षा या काम के माध्यम से सीखने के लिए मान्यता प्रदान करने के लिए PMKVY के तहत एक प्रमाणन कार्यक्रम ।</string>
+
+    <string name="benefits2">आरपीएल 4.0 के तहत लाभ – BICE</string>
+    <string name="benefitemp">कर्मचारी को लाभ :-</string>
+    <string name="benefit1"> 1)मूल्यांकन और प्रमाणन के लिए कोई शुल्क नहीं लिया गया है।</string>
+    <string name="benefit2"> 2)सफलतापूर्वक प्रमाणित उम्मीदवारों को 500 रुपये मिलेंगे।</string>
+    <string name="benefit3"> 3)3 वर्ष का आकस्मिक बीमा 2 लाख रुपए तक नि:शुल्क मिलेंगे।</string>
+    <string name="benefit4"> 4) कौशल प्रमाणपत्र का उपयोग संबंधित कौशल क्षेत्र में अगले स्तर की नौकरी की भूमिका के लिए किया जा सकता है । </string>
+
+    <string name="hint_name">आपका पहला नाम*</string>
+    <string name="EmploymentDetails">रोजगार की विस्तृत जानकारी*</string>
+
+    <string name="AnyOtherSector">कोई अन्य सेक्टर*</string>
+
+    <string name="hint_last_name">अंतिम नाम *</string>
+    <string name="hint_mobile">मोबाइल नंबर*</string>
+    <string name="alt_hint_mobile">अन्य मोबाइल नंबर</string>
+    <string name="hint_email">ईमेल आईडी*</string>
+    <string name="hint_address_line1">पता *</string>
+    <string name="hint_city">शहर</string>
+    <string name="hint_cityy">शहर*</string>
+    <string name="hint_citymandi">शहर*</string>
+
+    <string name="Help">लॉगआउट</string>
+    <string name="save">संपर्क करें</string>
+    <string name="search">सामान्य प्रश्न</string>
+    <string name="Helpline">तकनीकी सहायता</string>
+
+    <string name="hint_address_line2">पता 2</string>
+    <string name="hint_pincode">पिन कोड*</string>
+    <string name="hint_other">अन्य*</string>
+    <string name="hint_other_id">आईडी नंबर*</string>
+    <string name="hint_qualification">योग्यता*</string>
+    <string name="hint_aadhar">आधार नंबर *</string>
+    <string name="hint_pancard">पैन कार्ड*</string>
+    <string name="hint_empid">एम्प्लोयी आयडी/सेलर आयडी</string>
+    <string name="hint_seller_empid">एम्प्लोयी आयडी/सेलर आयडी*</string>
+    <string name="hint_empnm">एम्प्लायर का नाम*</string>
+    <string name="err_msg_for_employer_id">एम्प्लोयी आयडी/सेलर आयडी</string>
+    <string name="hint_location">स्टोर लोकेशन /लोकेशन</string>
+    <string name="hint_locationn">वर्क लोकेशन*</string>
+    <string name="hint_bank_ac">बैंक खाता नंबर*</string>
+    <string name="hint_ifsc_code">IFSC कोड*</string>
+    <string name="err_msg_name">अपना पूरा नाम लिखे</string>
+    <string name="err_msg_email">एक मान्य ईमेल पता दर्ज करें</string>
+    <string name="err_msg_password">पासवर्ड लिखे </string>
+
+    //error message
+    <string name="err_tech_stacks">इसे चुनना होगा</string>
+    <string name="err_msg_foraadhar">यह 12 अंकों का होना चाहिए</string>
+    <string name="err_msg_formobile">एक मान्य फ़ोन नंबर दर्ज करें</string>
+    <string name="err_msg_for_first_name">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_employer_name">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_last_name">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_address1">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_village_town_city">अपने गांव / शहर का नाम दर्ज करें</string>
+    <string name="err_msg_for_tehsil_maandal_block">अपने तहसील / मंडल / ब्लॉक का नाम दर्ज करें</string>
+    <string name="err_msg_for_birthPlace">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+
+    <string name="err_msg_for_state">इसे चुनना होगा</string>
+    <string name="err_msg_pincode">यह 6 अंकों का होना चाहिए</string>
+    <string name="err_msg_for_namein_bank">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_ifsc">यह अल्फ़ान्यूमेरिक और कैपिटल लेटर्स में होना चाहिए</string>
+    <string name="err_msg_for_sector">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_acno">इसे लिखना होगा और यह 6 से 18 अंकों के बीच होना चाहिए |</string>
+
+    <string name="err_msg_for_guardian">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="videocall">वीडियो कॉल</string>
+
+
+    <string name="select_any_one_event">किसी एक घटना का चयन करें</string>
+    <string name="join_events">घटनाओं में शामिल हों</string>
+    <string name="title_activity_alert_choose_file">छवि / फ़ाइल का चयन करें</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="face_detect_note">नोट:-\n\u2022 कैमरा लेंस साफ करें।\n\u2022 हेड एंगल सीधा होना चाहिए।\n\u2022 दोनों आंखें खुली होनी चाहिए।\n\u2022 कोई भी वस्तु चेहरे के सामने नहीं होनी चाहिए।\n\u2022 यदि आप मास्क पहन रहे हैं तो कृपया उन्हें हटा दें.\n</string>
+
+
+    <string name="tvevent">Events</string>
+    <string name="register_for_event">Login/Register for Event</string>
+    <string name="select_district">Select District (Optional)</string>
+    <string name="organization">Organization</string>
+    <string name="ev_email_id">Enter Email Id (Optional)</string>
+    <string name="selectdistrict">जिले का चयन करें*</string>
+    <string name="ads_number">ADS संख्या*</string>
+    <string name="attendance">उपस्थिति</string>
+    <string name="removemask">मास्क हटाओ</string>
+    <string name="find"> खोजा गया </string>
+    <string name="face"> शकल </string>
+    <string name="headangle">हेड एंगल सेट करें</string>
+
+    <string name="openaye">कृपया दोनों आंखें खोलें</string>
+    <string name="removeobject">कृपया चेहरे पर वस्तु को हटा दें</string>
+    <string name="without_mask">बिना_मास्क</string>
+
+    <string-array name="gender">
+        <item>लिंग चुनें</item>
+        <item>पुरुष</item>
+        <item>महिला</item>
+        <item>अन्य</item>
+    </string-array>
+
+    <string-array name="guardiantype">
+        <item>अभिभावक को चुने*</item>
+        <item>पिता</item>
+        <item>माता</item>
+        <item>भाई </item>
+        <item>बहन</item>
+        <item>पति </item>
+        <item>चाचा/मामा/ताऊ</item>
+        <item>चाची/मामी/ताई</item>
+    </string-array>
+
+    <string-array name="cast">
+        <item>जाति चुने*</item>
+        <!-- <item>SC</item>
+         <item>ST</item>
+         <item>OBC</item>
+         <item>General</item>
+         <item>Others</item>-->
+
+        <item>एससी</item>
+        <item>एसटी</item>
+        <item>ओबीसी</item>
+        <item>सामान्य</item>
+        <item>अन्य</item>
+    </string-array>
+
+    <string name="select_cast">जाति चुने*</string>
+
+    <!-- <string-array name="guardiantype1">
+         <item>अभिभावक को चुने*</item>
+         <item>S/O</item>
+         <item>D/O</item>
+         <item>W/O</item>
+     </string-array>-->
+
+    <string-array name="guardiantype1">
+        <item>अभिभावक को चुने*</item>
+        <item>बेटा</item>
+        <item>बेटी</item>
+        <item>पत्नी</item>
+    </string-array>
+
+    <string-array name="Title">
+        <item>नाम का शीर्षक*</item>
+        <item>श्री</item>
+        <item>श्रीमती</item>
+        <item>कुमारी</item>
+        <item>Mx</item>
+    </string-array>
+
+    <string-array name="heardTitle">
+        <item>Heard About Us</item>
+        <item>Internet</item>
+        <item>Friends/Relatives</item>
+        <item>Kaushal Mela</item>
+        <item>Newsletter</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Disablity">
+        <item>कोई विकलांगता ?</item>
+        <item>हाँ</item>
+        <item>नहीं</item>
+    </string-array>
+
+    <string-array name="isEmployed">
+        <item>क्या आप कार्यरत हैं*</item>
+        <item>हाँ</item>
+        <item>नहीं</item>
+    </string-array>
+
+    <string-array name="Employment_status_string">
+        <item>चुनें </item>
+        <item>कर्मचारी</item>
+        <item>स्व नियोजित</item>
+    </string-array>
+
+    <string-array name="Employment_status_string_corporate">
+        <!-- <item>Employment Status*</item>
+         <item>Employed</item>
+         <item>Un Employed</item>
+         <item>Experienced but Currently Un Employed</item>
+         <item>Self Employed</item>-->
+        <item>रोजगार की स्थिति*</item>
+        <item>रोजगार</item>
+        <item>अनियोजित</item>
+        <item>अनुभवी लेकिन वर्तमान में बेरोजगार</item>
+        <item>स्वरोजगार</item>
+    </string-array>
+
+    <string name="isEmploy">Employed*</string>
+
+    <string-array name="type_of_Disablity">
+        <item>विकलांगता का प्रकार चुनें</item>
+        <item>दृष्टीहीनता (नेत्रहीन)</item>
+        <item>कम दृष्टि</item>
+        <item>बहरा</item>
+        <item>सुनने में दिक्कत</item>
+        <item>बहरापन और दृष्टीहीनता</item>
+        <item>बौद्धिक अक्षमता</item>
+        <item>बौनापन</item>
+        <item>विशिष्ट सीखने की अक्षमता</item>
+        <item>अन्य</item>
+    </string-array>
+
+    <string-array name="type_of_Disablity_corporate">
+        <item>Select Type of Disability</item>
+        <item>Locomotor Disability</item>
+        <item>Leprosy Cured Person</item>
+        <item>Dwarfism</item>
+        <item>Acid Attack Victims</item>
+        <item>Blindness/Visual Impairment</item>
+        <item>Low-vision (Visual Impairment)</item>
+        <item>Deaf</item>
+        <item>Hard of Hearing</item>
+        <item>Speech and Language Disability</item>
+        <item>Intellectual Disability/Mental Retardation</item>
+        <item>Autism Spectrum Disorder</item>
+        <item>Specific Learning Disabilities</item>
+        <item>Mental Behavior-Mental Illness</item>
+        <item>Haemophilia</item>
+        <item>Thalassemia</item>
+        <item>Sickle Cell Disease</item>
+        <item>Deaf Blindness</item>
+        <item>Cerebral Palsy</item>
+        <item>Multiple Sclerosis</item>
+        <item>Muscular Dystrophy</item>
+    </string-array>
+
+    <string-array name="other_id_corporate">
+        <item>पहचान प्रमाण*</item>
+        <!--   <item>PAN Card</item>
+           <item>Aadhar</item>
+           <item>Voter ID Card</item>
+           <item>Domicile Certificate</item>
+           <item>ST/SC Certificate</item>
+           <item>Permanent Residential Certificate (PRC)</item>
+           <item>Driving License</item>
+           <item>Ration Card, Birth Certificate issued by govt</item>
+           <item>BPL Card</item>
+           <item>National Population Register (NPR) Card</item>
+           <item>Identity proof by Gazetted officers</item>
+           <item>Passport</item>
+           <item>Jail Identification Card / Number</item>
+           <item>School leaving certificate / 10th certificate</item>
+           <item>Letter of domicile from SDM / DM / Govt. Authority</item>
+           <item>Other</item>-->
+
+        <item>पैन कार्ड</item>
+        <item>आधार</item>
+        <item>वोटर आईडी कार्ड</item>
+        <item>निवास प्रमाणपत्र</item>
+        <item>एसटी/एससी सर्टिफिकेट</item>
+        <item>स्थायी आवासीय प्रमाणपत्र (पीआरसी)</item>
+        <item>ड्राइविंग लाइसेंस</item>
+        <item>राशन कार्ड, सरकार द्वारा जारी जन्म प्रमाण पत्र</item>
+        <item>बीपीएल कार्ड</item>
+        <item>राष्ट्रीय जनसंख्या रजिस्टर (एनपीआर) कार्ड</item>
+        <item>राजपत्रित अधिकारियों द्वारा पहचान प्रमाण</item>
+        <item>पासपोर्ट</item>
+        <item>जेल पहचान पत्र / नंबर</item>
+        <item>विद्यालय छोड़ने का प्रमाण पत्र / 10वां प्रमाण पत्र</item>
+        <item> एसडीएम / डीएम / सरकार से अधिवास का पत्र। प्राधिकरण</item>
+        <item>अन्य</item>
+
+
+    </string-array>
+
+    <string-array name="corporate_id_update">
+        <item>पहचान प्रमाण*</item>
+        <item>PAN Card</item>
+        <item>Aadhar</item>
+        <item>Voter Id Card</item>
+        <item>Birth Certificate</item>
+        <item>Driving Licence</item>
+        <item>Permanent Residential Certificate (PRC)</item>
+        <item>Domicile Certificate</item>
+        <item>ST/SC Certificate</item>
+        <item>Ration Card</item>
+        <item>BPL Card</item>
+        <item>National Population Register (NPR) Card</item>
+        <item>Identity proof by Gazetted officers</item>
+        <item>Passport</item>
+        <item>Jail Identification Card/Number</item>
+        <item>School leaving certificate</item>
+        <item>10th certificate</item>
+        <item>Letter of domicile from SDM / DM</item>
+        <item>Govt. Authority</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="Other_Id_corporate">Identity proof*</string>
+
+    <string-array name="other_id">
+        <item>वैकल्पिक आईडी प्रूफ</item>
+        <item>पैन कार्ड</item>
+        <item>ड्राइविंग लाइसेंस</item>
+        <item>वोटर आईडी कार्ड</item>
+        <item>जन्म प्रमाणपत्र</item>
+        <item>अन्य</item>
+    </string-array>
+
+    <string-array name="Year">
+        <item>वर्ष</item>
+        <item>1947</item>
+        <item>1948</item>
+        <item>1949</item>
+        <item>1950</item>
+        <item>1951</item>
+        <item>1952</item>
+        <item>1953</item>
+        <item>1954</item>
+        <item>1955</item>
+        <item>1956</item>
+        <item>1957</item>
+        <item>1958</item>
+        <item>1959</item>
+        <item>1960</item>
+        <item>1961</item>
+        <item>1962</item>
+        <item>1963</item>
+        <item>1964</item>
+        <item>1965</item>
+        <item>1966</item>
+        <item>1967</item>
+        <item>1968</item>
+        <item>1969</item>
+        <item>1970</item>
+        <item>1971</item>
+        <item>1972</item>
+        <item>1973</item>
+        <item>1974</item>
+        <item>1975</item>
+        <item>1976</item>
+        <item>1977</item>
+        <item>1978</item>
+        <item>1979</item>
+        <item>1980</item>
+        <item>1981</item>
+        <item>1982</item>
+        <item>1983</item>
+        <item>1984</item>
+        <item>1985</item>
+        <item>1986</item>
+        <item>1987</item>
+        <item>1988</item>
+        <item>1989</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+    </string-array>
+
+    <string-array name="Year1">
+        <item>वर्ष</item>
+        <item>1947</item>
+        <item>1948</item>
+        <item>1949</item>
+        <item>1950</item>
+        <item>1951</item>
+        <item>1952</item>
+        <item>1953</item>
+        <item>1954</item>
+        <item>1955</item>
+        <item>1956</item>
+        <item>1957</item>
+        <item>1958</item>
+        <item>1959</item>
+        <item>1960</item>
+        <item>1961</item>
+        <item>1962</item>
+        <item>1963</item>
+        <item>1964</item>
+        <item>1965</item>
+        <item>1966</item>
+        <item>1967</item>
+        <item>1968</item>
+        <item>1969</item>
+        <item>1970</item>
+        <item>1971</item>
+        <item>1972</item>
+        <item>1973</item>
+        <item>1974</item>
+        <item>1975</item>
+        <item>1976</item>
+        <item>1977</item>
+        <item>1978</item>
+        <item>1979</item>
+        <item>1980</item>
+        <item>1981</item>
+        <item>1982</item>
+        <item>1983</item>
+        <item>1984</item>
+        <item>1985</item>
+        <item>1986</item>
+        <item>1987</item>
+        <item>1988</item>
+        <item>1989</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+    </string-array>
+
+    <string-array name="Month">
+        <item>माह</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="Date">
+        <item>दिनांक</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string name="amway_month">माह</string>
+    <string name="amway_date">दिनांक</string>
+
+    <string-array name="empid">
+        <item>कर्मचारी आयडी</item>
+        <item>UPICA-UP01</item>
+        <item>UPICA-UP02</item>
+        <item>UPICA-UP03</item>
+        <item>UPICA-UP04</item>
+        <item>UPICA-UP05</item>
+        <item>UPICA-UP06</item>
+        <item>UPICA-UP07</item>
+        <item>UPICA-UP08</item>
+    </string-array>
+
+    <string-array name="Education">
+        <item>शिक्षा को चुनें*</item>
+        <item>अनिवार्य नहीं हैं</item>
+        <item>10वीं तक</item>
+        <item>12वीं तक</item>
+        <item>आईटीआई</item>
+        <item>पोलीटेकनिक</item>
+        <item>ग्रेजुएट</item>
+        <item>ग्रेजुएट या उससे ऊपर </item>
+        <item>अन्य</item>
+    </string-array>
+
+    <string-array name="EducationCorporate">
+        <item>शिक्षा*</item>
+        <!-- <item>Below 10th Standard</item>
+         <item>10th Standard Pass</item>
+         <item>12th Standard or Equivalent Passed</item>
+         <item>ITI</item>
+         <item>Polytechnic / Diploma</item>
+         <item>Graduation</item>
+         <item>Post-Graduation</item>
+         <item>Doctorate</item>-->
+
+        <item>दसवीं कक्षा से नीचे</item>
+        <item>10वीं कक्षा पास</item>
+        <item>12वीं कक्षा या समकक्ष उत्तीर्ण</item>
+        <item>आईटीआई</item>
+        <item>पॉलिटेक्निक/डिप्लोमा</item>
+        <item>स्नातक</item>
+        <item>स्नातकोत्तर</item>
+        <item>डॉक्टरेट</item>
+
+    </string-array>
+
+    <string-array name="Category">
+        <item>वर्ग चुनें*</item>
+        <item>सामान्य </item>
+        <item>अन्य पिछड़ा वर्ग</item>
+        <item>अनुसूचित जाति/जनजाति</item>
+    </string-array>
+
+    <string-array name="CategoryCorporate">
+        <item>वर्ग चुनें*</item>
+        <item>सामान्य </item>
+        <item>अन्य पिछड़ा वर्ग</item>
+        <item>अनुसूचित जाति</item>
+        <item>जनजाति</item>
+        <item>उद्घाटित नहीं करना</item>
+    </string-array>
+
+    <!--//Amway_String-->
+    <string-array name="Amway_Select_the_Sector">
+        <item>सेक्टर चुनें</item>
+    </string-array>
+
+    <string-array name="Amway_Select_the_PrefferedLanguage">
+        <item>पसंदीदा भाषा चुनें </item>
+    </string-array>
+
+    <string-array name="Select_the_PSector">
+        <item>पूर्व सेक्टर का चयन करें*</item>
+    </string-array>
+
+    <string-array name="Select_the_PSectors">
+        <item>पूर्व सेक्टर का चयन करें</item>
+    </string-array>
+
+    <string-array name="Select_the_PJobrole">
+        <item>पूर्व नौकरी का चयन करें </item>
+    </string-array>
+
+    <string-array name="Amway_Select_the_State">
+        <item>राज्य चुनें*</item>
+    </string-array>
+
+    <string-array name="Amway_Select_the_District">
+        <item>जिला चुनें*</item>
+    </string-array>
+
+    <string-array name="Amway_Select_the_Employer">
+        <item>नियोक्ता चुनें</item>
+    </string-array>
+
+    <string-array name="Amway_Select_the_Jobrole">
+        <item>जॉब रोल चुनें</item>
+    </string-array>
+
+    <string name="amway_Year">वर्ष</string>
+    <string name="amway_Gender">लिंग चुनें</string>
+    <string name="amway_Title">नाम का शीर्षक*</string>
+    <string name="amway_Guardian">अभिभावक को चुनें*</string>
+    <string name="amway_categroy">वर्ग चुनें*</string>
+    <string name="amway_state">राज्य चुनें*</string>
+    <string name="amway_District">जिला चुनें*</string>
+    <string name="amway_Domicile_District">Select the Domicile District*</string>
+    <string name="amway_Eduction">शिक्षा चुने</string>
+    <string name="amway_Employer">नियोक्ता चुने</string>
+    <string name="amway_Disablity">कोई विकलांगता ?</string>
+    <string name="amway_Disablity_yes">हाँ</string>
+    <string name="amway_type_of_disablity1">विकलांगता का प्रकार चुने</string>
+    <string name="amway_otheridproof">अन्य आईडी प्रूफ़</string>
+    <string name="amway_other">अन्य</string>
+    <string name="notapplicable">अनिवार्य नहीं हैं</string>
+
+    <!--//Toast-->
+    <string name="amway_Year_Toast">वर्ष को चुनना जरुरी है</string>
+    <string name="amway_Gender_Toast">लिंग को चुनना जरुरी है</string>
+    <string name="amway_Title_Toast">Title must be selected</string>
+    <string name="amway_Guardian_Toast">अभिभावक को चुनना जरुरी है </string>
+    <string name="amway_categroy_Toast">वर्ग को चुनना जरुरी है</string>
+    <string name="amway_State_Toast">राज्य को चुनना जरुरी है</string>
+    <string name="amway_District_Toast">जिले को चुनना जरुरी है </string>
+    <string name="amway_Eduction_Toast">शिक्षा को चुनना जरुरी है</string>
+    <string name="amway_Employer_Toast">नियोक्ता को चुनना जरुरी है</string>
+    <string name="amway_Employer_4_Toast">कर्मचारी आयडी/सेलर आईडी</string>
+    <string name="err_msg_for_wrk_loc">वर्क लोकेशन</string>
+    <string name="amway_Employer_work_loc">वर्क लोकेशन </string>
+    <string name="amway_Disablity_Toast">विकलांगता को चुनना जरुरी है </string>
+    <string name="amway_Disablit_type_Toast">विकलांगता का प्रकार चुनना जरुरी है</string>
+    <string name="amway_otheridproof_Toast">आईडी लिखना जरुरी है</string>
+    <string name="amway_other_Employ_Toast">शिक्षा लिखना जरुरी है</string>
+    <string name="amway_pancard_Toast">एक वैध वैकल्पिक आईडी या आधार कार्ड नंबर दर्ज करे</string>
+    <string name="amway_Aadhar_Toast">आधार कार्ड आपके राज्य के अनुसार खाली नहीं हो सकता</string>
+    <string name="amway_formErr_Toast">फॉर्म सही तरीके से नहीं भरा गया है। कृपया इसे चेक करें और सबमिट करें।</string>
+    <string name="amway_Language_Err_Toast">भाषा  की सूचि प्राप्त  करने में  असमर्थ</string>
+    <string name="amway_States_Err__Toast">राज्य की सूचि प्राप्त  करने में  असमर्थ</string>
+    <string name="amway_Internet_Toast">इंटरनेट उपलब्ध नहीं है |</string>
+
+    <!-- //Snackbar-->
+    <string name="amway_aadhar_snack">यह आधार नंबर अमान्य है। कृपया सही आधार नंबर का लिखे .</string>
+    <string name="employerlist">एम्प्लायर चुने</string>
+    <string name="amway_District_Err">जिला की सूचि प्राप्त करने में असमर्थ</string>
+    <string name="form_employee_Err">एम्पलॉयर  की सूचि प्राप्त  करने में  असमर्थ </string>
+    <string name="form_Sector_Err">सेक्टर की सूचि प्राप्त  करने में  असमर्थ </string>
+    <string name="form_job_role_ERR">जोबरोल  की सूचि प्राप्त  करने में  असमर्थ</string>
+    <string name="Photo_Message">डिवाइस के डिफ़ॉल्ट कैमरे का उपयोग करके फ़ोटो क्लिक करें</string>
+    <string name="Saving_Err">डिटेल सेव करने में असमर्थ</string>
+    <string name="amway_year">वर्ष</string>
+    <string name="Employer_Toast_Message_At_Select_Time">आगे बढ़ने के लिए कृपया अपने नियोक्ता का चयन करें</string>
+    <string name="Choose_Company_Message">अपने </string>
+    <string name="choose_company_message2"> को चुना है अपने कंपनी के रूप में कृपया कंपनी को बदलने के लिए कैंसिल बटन को दबाएं अन्यथा जारी रखने के लिए कन्फर्म दबाएं।</string>
+    <string name="Alert">चेतावनी!</string>
+    <string name="Cancel">कैंसिल </string>
+    <string name="Confirm">कन्फर्म </string>
+    <string name="Company_Err">यह एक मान्य कंपनी का नाम नहीं है</string>
+    <string name="Select_Bank">बैंक चुने* </string>
+    <string name="Select_Bank_Toast">बैंक का नाम चुनना जरुरी है।</string>
+    <string name="amway_Category">वर्ग चुने </string>
+    <string name="Select_state">राज्य को चुने</string>
+    <string name="Decleration_Message">डिक्लेरेशन फॉर्म चेक करे।  फॉर्म को दुबारा चेक करके सबमिट करे</string>
+    <string name="Bank_Err">बैंक की सूचि प्राप्त करने में असमर्थ</string>
+    <string name="Form_failed">प्रोफ़ाइल अपडेट करने में विफल। कृपया पुन: प्रयास करें।</string>
+    <string name="Student_Err">छात्र की जानकारी प्राप्त करने में असमर्थ </string>
+    <string name="Photo_Err_Message">आपकी फ़ोटो सही फॉर्मेट में नहीं है, कोई अन्य फ़ोटो क्लिक करें। .</string>
+    <string name="Camera_Message">चुनी गई फ़ाइल अमान्य है। फ़ोटो क्लिक करने के लिए कृपया डिफ़ॉल्ट कैमरे का उपयोग करें।</string>
+    <string name="Face_Message">फेस डिटेक्टर सेट नहीं हो रहा है।!</string>
+    <string name="Ok">ओके</string>
+    <string name="Global_ErrorResponse_Message">एक एरर उत्पन्न हो गया है। कृपया दुबारा प्रयास करे।</string>
+
+    <string name="Camera_granted">camera permission granted</string>
+    <string name="Camera_Denied">camera permission denied</string>
+
+    <string name="Location_Req">आपको स्थान प्रदर्शित करने के लिए अनुमतियां देनी होगी </string>
+    <string name="Google_Play_Req">ऐप को ठीक से इस्तेमाल करने के लिए आपको गूगल प्ले सर्विसेज को इंस्टॉल करना होगा</string>
+    <string name="Camera_Warning">आप अपना फोटो अपलोड किए बिना कंटिन्यू नहीं रख सकते</string>
+    <string name="Select_jobrole_global">जॉब रोल चुने</string>
+    <string name="Select_the_language_global">पसंदीदा भाषा चुने</string>
+    <string name="Aadhar_msg" translatable="false">आधार नंबर लिखना जरुरी है। .</string>
+    <string name="Aadhar_msg2" translatable="false">यह आधार नंबर अमान्य है।  कृप्या सही आधार नंबर दर्ज करे।</string>
+    <string name="Asdhar_msg3">दर्ज किया गया आधार नंबर पहले से पंजीकृत है। दूसरे आधार का उपयोग करे</string>
+    <string name="Aadhar_Already_user_Message" translatable="false">आप इस आधार नंबर से  पहले  ही रजिस्टर हो चुके है जिसका मोबाइल नंबर यह  है</string>
+    <string name="SignIn_Message">आवश्यक फ़ील्ड उपयोगकर्ता नाम और पासवर्ड रिक्त नहीं हो सकते</string>
+    <string name="AlredyAttempt_Exam">आप पहले ही एग्जाम दे चुके है।</string>
+    <string name="Unable_login">लॉग इन करने में असमर्थ</string>
+    <string name="Wrong_credentials">गलत आईडी</string>
+    <string name="Wrong_login">गलत लॉगिन आईडी और पासवर्ड</string>
+    <string name="Check_Internrt">कृपया इंटरनेट कनेक्टिविटी की जाँच करें |</string>
+    <string name="Exit_Alert_Message">क्या आप एग्जिट करना चाहते हैं?</string>
+    <string name="No">नहीं </string>
+    <string name="Choose_Language">परीक्षा की भाषा चुने</string>
+    <string name="Start_Exam1">एग्जाम शुरू करें </string>
+    <string name="Internet_connectivity">इंटरनेट उपलब्ध नहीं है, अपनी इंटरनेट कनेक्टिविटी की जांच करें</string>
+    <string name="Info">Info</string>
+    <string name="Mandatory_All_Question">कृपया सभी प्रश्नों के उत्तर दें क्योंकि सभी प्रश्न अनिवार्य हैं ।</string>
+    <string name="Final_Message_submit">टेस्ट को सबमिट करें.</string>
+    <string name="Successfully_Attempted">आपने परीक्षा को सफलतापूर्वक किया है। </string>
+    <string name="No_question_Ans">किसी प्रश्न का उतर नहीं दिया है।</string>
+    <string name="TimeOver_Alert">आपका समय समाप्त होता है। फाइनल सबमिट के लिए टेस्ट शेड्यूल करने के लिए हां दबाएं।</string>
+    <string name="Yes_Proceed">आगे बढ़े</string>
+    <string name="Start_Viva_Exam">वाइवा एग्जाम शुरू करें</string>
+    <string name="Alert_For_Next_Section">अगले भाग पर जाने के लिए हाँ पर क्लिक करें और आगे बढ़ें!</string>
+    <string name="Exit_Alert">परीक्षा जारी रहेगी और टाइमर चलता रहेगा। क्या आप निश्चित हैं आपकी बाहर निकलने की इच्छा है?</string>
+    <string name="Yes1" translatable="false">हाँ</string>
+    <string name="profile_incomp">आपकी प्रोफ़ाइल अधूरी है</string>
+    <string name="Choose_Sector">सेक्टर चुने</string>
+
+
+    <!--date:-16/8/2019-->
+    <string name="start">शुरू करे</string>
+    <string name="Swipetobegin">शुरू करने  के लिए खिसकाएँ</string>
+    <string name="upload_your_photo">अपनी फोटो अपलोड करें</string>
+    <string name="student_name">छात्र का नाम :-</string>
+    <string name="address">पता :-</string>
+    <string name="proceed">आगे बढे</string>
+    <string name="enter_your_company_name">अपनी कंपनी का नाम दर्ज करें</string>
+    <string name="enter_your_ssc_name">अपनी SSC का नाम दर्ज करें</string>
+    <string name="ssc_name">SSC का नाम</string>
+    <string name="company_name">कंपनी का नाम</string>
+    <string name="registration_details">पंजीकरण के विवरण</string>
+
+    <string name="upload_your_aadhar_front">आगे का आधार अपलोड करें</string>
+    <string name="upload_your_aadhar_back">पीछे का आधार अपलोड करें</string>
+
+    <string name="personal_details">व्यक्तिगत विवरण</string>
+    <string name="candidate_details">उम्मीदवार विवरण</string>
+    <string name="address_details">स्थायी पता</string>
+    <string name="qualification">योग्यता</string>
+    <string name="employer_details">नियोक्ता विवरण</string>
+    <string name="employer_details_corporate">कंपनी/संगठन विवरण</string>
+
+    <string name="course_details">कोर्स विवरण</string>
+    <string name="employment_status">रोज़गार स्थिति</string>
+    <string name="identification_details">पहचान विवरण</string>
+    <string name="bank_details">बैंक विवरण</string>
+    <string name="i_am_willing_to_declare_my_aadhar_details_for_pmkvy_rpl4_project">मैं PMKVY RPL4 परियोजना के लिए अपने आधार विवरण को घोषित करने के लिए तैयार हूं</string>
+    <string name="name_as_in_bank">बैंक में नाम</string>
+    <string name="register">रजिस्टर</string>
+    <string name="already_registered">लॉग इन</string>
+    <string name="scan_aadhar_qr_code">आधार QR कोड स्कैन करें</string>
+    <string name="date_of_birth">जन्म की तारीख*</string>
+    <string name="Attend_ERR_msg">उपस्थिति दर्ज करने में असमर्थ बाद में फिर से प्रयास करें</string>
+    <string name="Previous">पिछला</string>
+    <string name="MarkforReview">समीक्षा हेतु निशान लगायें</string>
+    <string name="Next">अगला</string>
+    <string name="father_first_name">पिता का प्रथम नाम*</string>
+    <string name="father_last_name">पिता का अंतिम नाम*</string>
+    <string name="guardian_first_name">अभिभावक का नाम</string>
+    <string name="guardian_last_name">अभिभावक का अंतिम नाम</string>
+    <string name="birth_place">जन्म स्थान*</string>
+    <string name="update">अपडेट</string>
+    <string name="year_of_birth">जन्म का वर्ष*</string>
+    <string name="update_profile_for_assessment">प्रोफाइल अपडेट करें</string>
+
+    <!--Date of change 13/8/2019 -->
+    <string name="intro_page">R.P.L ओवरव्यू</string>
+    <string name="Registration">रजिस्ट्रेशन </string>
+    <string name="Instruction">निर्देश</string>
+    <string name="home">होम</string>
+    <string name="Attendence">अटेंडेंस </string>
+
+    <string name="flash_on">Turn flash On</string>
+    <string name="flash_off">Turn flash Off</string>
+    <string name="auto_focus_on">Turn focus</string>
+    <string name="auto_focus_off">Focus off</string>
+    <string name="crt_msg">Upload</string>
+    <string name="crt_upload_soon">Will be uploaded Soon</string>
+
+    <string name="examlockedmsg">चूंकि आप अवैध साधनों का उपयोग कर रहे थे, इसलिए आपको परीक्षा से बाहर कर दिया गया है। आगे की पूछताछ के लिए प्रशासक से संपर्क करें।.</string>
+    <string name="new_user_register">नया यूजर ? रजिस्टर</string>
+    <string name="photo1">कृपया फ़ोटो अपलोड करें क्योंकि यह अनिवार्य है</string>
+    <string name="login_appmessage">आप पहले से ही अन्य डिवाइस में लॉग इन हैं, क्या आप अन्य डिवाइस से लॉग आउट करना चाहते हैं ?</string>
+    <string name="login_webMessage">आप पहले से ही अन्य उपकरणों में लॉग इन हैं, परीक्षा शुरू करने के लिए कृपया ब्राउज़र से लॉग आउट करें</string>
+    <string name="lg_again">कृपया फिर से लॉगिन करें!</string>
+    <string name="loc_ref">Loation Refreshed</string>
+    <string name="mark_atten">Please, Mark attendence again!</string>
+    <string name="loc_permi">आपको स्थान प्रदर्शित करने के लिए अनुमतियां सक्षम करने की आवश्यकता है !</string>
+    <string name="txtNoLocation">आपके वर्तमान स्थान</string>
+    <string name="location_warn">हम आपका स्थान प्राप्त कर रहे हैं। कृपया प्रतीक्षा करें</string>
+
+    <string name="Alertforexamlock">कृपया परीक्षा को बीच में न छोड़ें। लगातार तीन बार ऐसा करने से एग्जाम लॉक हो जाएगा और आप एग्जाम से बाहर हो जाएंगे।</string>
+    <string name="examlockedonquestionpaper">चूंकि आपने 3 बार से अधिक परीक्षा छोड़ दी है। अब आपका परीक्षा लॉक हो जाएगा। आपको लॉग इन करने की अनुमति नहीं होगी। आगे की मदद के लिए कृपया व्यवस्थापक से संपर्क करें।</string>
+    <string name="fetch_data">पुन: प्रयास करें</string>
+    <string name="Signin_failed">पुन: प्रयास करें</string>
+    <string name="Auth_failed">पुन: प्रयास करें</string>
+
+    <string name="choose_one">आगे जाने से पहले आपको एक विकल्प चुनना होगा।</string>
+
+    <string name="th_not_comp">थ्योरी परीक्षा पूरी नहीं हुई है, फिर से समीक्षा करें</string>
+
+    <string name="th_comp">थ्योरी परीक्षा पूरी हो गई है, क्या आप आगे बढ़ना चाहते हैं?</string>
+
+    <string name="Dm_not_comp">वर्क डोमेन परीक्षा पूरी नहीं हुई है, फिर से समीक्षा करें</string>
+
+    <string name="Dm_comp">वर्क डोमेन परीक्षा पूरी हो गई है, क्या आप आगे बढ़ना चाहते हैं?</string>
+
+    <string name="viva_not_cmp">मौखिक परीक्षा पूरी नहीं हुई है, फिर से समीक्षा करें</string>
+
+    <string name="viva_cmp">मौखिक परीक्षा पूरी हो गई है, क्या आप आगे बढ़ना चाहते हैं?</string>
+
+    <string name="blink_eyes">फोटो खींचने के लिए अपनी पलक को झपकाइये</string>
+
+    <string name="marked">समीक्षा हेतु निशान लग गयें</string>
+
+    <string name="Submit">जमा करे</string>
+    <string name="title_choose_file">Choose File Or Change Folder</string>
+    <string name="upload_document">दस्तावेज़ अपलोड करें*</string>
+
+    <string name="txtEnterBatchId">बैच संख्या डालें</string>
+    <string name="txtDownload">डाउनलोड</string>
+    <string name="txtCandDetail">उम्मीदवार विवरण</string>
+    <string name="txtBatchStatus">बैच स्थिति</string>
+    <string name="txtSyncDetail">सिंक विवरण</string>
+    <string name="txtOverAll">सिंक किया गया</string>
+    <string name="txtPhoto">फ़ोटो</string>
+    <string name="txtSync">सिंक</string>
+    <string name="txtDevice">डिवाइस: </string>
+    <string name="txtCompleted">संपूर्ण</string>
+    <string name="txtInValid">अमान्य</string>
+    <string name="txtSelected">चयनित</string>
+    <string name="txtSelect">चुनें</string>
+
+    <string name="father_s_name">पिता का नाम*</string>
+    <string name="mother_name">माँ का नाम*</string>
+    <string name="heard_about_us_source">आपने हमारे बारे में कहाँ से सुना?</string>
+    <string name="th_block">तहसील/मंडल/ब्लॉक*</string>
+
+
+
+    <string name="fullname">पूरा नाम दर्ज करें*</string>
+    <string name="mobile">10 अंकों का मोबाइल नंबर दर्ज करें*</string>
+    <string name="email_address">ईमेल पता दर्ज करें (वैकल्पिक)</string>
+    <string name="inquiries">अपनी पूछताछ यहां स्पष्ट करें*</string>
+    <string name="english">अंग्रेज़ी</string>
+
+
+    <string-array name="MonthsOfExperience">
+        <item>अनुभव(माह)</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="YearsofExperience">
+        <item>अनुभव(वर्ष)</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="MaritalStatus">
+        <item>वैवाहिक स्थिती चुने*</item>
+        <!-- <item>Single</item>
+         <item>Married</item>
+         <item>Widowed</item>
+         <item>Divorced</item>-->
+
+        <item>एकल</item>
+        <item>विवाहित</item>
+        <item>विधवा</item>
+        <item>तलाकशुदा</item>
+    </string-array>
+
+    <string-array name="MaritalStatusMale">
+        <item>वैवाहिक स्थिती चुने*</item>
+        <item>एकल</item>
+        <item>विवाहित</item>
+        <item>विधुर</item>
+        <item>तलाकशुदा</item>
+    </string-array>
+
+    <string-array name="MaritalStatusCorporate">
+        <item>वैवाहिक स्थिती चुने*</item>
+        <!-- <item>Single/Unmarried</item>
+         <item>Married</item>
+         <item>Widowed</item>
+         <item>Divorced</item>
+         <item>Separated</item>
+         <item>Not to be Disclosed</item>-->
+
+        <item>अविवाहित/अविवाहित</item>
+        <item>विवाहित</item>
+        <item>विधवा</item>
+        <item>तलाकशुदा</item>
+        <item>अलग किया गया</item>
+        <item>प्रकट नहीं किया जाना है</item>
+
+    </string-array>
+
+    <!--    //string change by pk date 2 dec-->
+    <string name="Select_religion">धर्म चुने</string>
+    <string name="Select_Martial">वैवाहिक स्थिती चुने*</string>
+    <string name="Select_pp">पूर्व प्रशिक्षण की स्थिति*</string>
+    <string name="Year_of_Prev_Exp">अनुभव(वर्ष)*</string>
+    <string name="Month_of_Prev_Exp">अनुभव(माह)*</string>
+    <string name="Month_of_Prev_month_Exp">अनुभव के महीनों का चयन करें</string>
+    <string name="constituency">चुनाव क्षेत्र</string>
+    <string name="Select_subsector">सब सेक्टर का चयन करें</string>
+    <string name="Select_sector">सेक्टर का चयन करें</string>
+    <string name="year_of_passing">उत्तीर्ण होने का वर्ष(YYYY)*</string>
+
+    <string name="Other_Id">वैकल्पिक आईडी प्रूफ</string>
+
+    <string-array name="religion">
+        <item>धर्म चुने*</item>
+        <item>प्रकट नहीं किया जाना है</item>
+        <item>हिंदू धर्म</item>
+        <item>इस्लाम</item>
+        <item>ईसाई धर्म</item>
+        <item>सिख धर्म</item>
+        <item>प्रवासी</item>
+        <item>अज्ञेयवादी</item>
+        <item>नास्तिक</item>
+        <item>बहाई</item>
+        <item>बौद्ध धर्म</item>
+        <item>काओ दाई</item>
+        <item>चीनी पारंपरिक धर्म</item>
+        <item>जैन धर्म</item>
+        <item>जुचे</item>
+        <item>यहूदी धर्म</item>
+        <item>नव-मूर्तिपूजा</item>
+        <item>अधार्मिक</item>
+        <item>रास्ताफ़ेरियनवाद</item>
+        <item>धर्मनिरपेक्ष</item>
+        <item>शिंटो</item>
+        <item>अध्यात्मवाद</item>
+        <item>टेनरिक्यो</item>
+        <item>एकतावादी सार्वभौमवाद</item>
+        <item>पारसी धर्म</item>
+        <item>मूल स्वदेशी</item>
+        <item>अन्य</item>
+    </string-array>
+
+    <string-array name="religionss">
+        <item>धर्म चुने</item>
+        <item>Not to be Disclosed</item>
+        <item>Hinduism</item>
+        <item>Islam</item>
+        <item>Christianity</item>
+        <item>Sikhism</item>
+        <item>Diasporic</item>
+        <item>Agnostic</item>
+        <item>Atheist</item>
+        <item>Bahai</item>
+        <item>Buddhism</item>
+        <item>Cao Dai</item>
+        <item>Chinese traditional religion</item>
+        <item>Jainism</item>
+        <item>Juche</item>
+        <item>Judaism</item>
+        <item>Neo-Paganism</item>
+        <item>Nonreligious</item>
+        <item>Rastafarianism</item>
+        <item>Secular</item>
+        <item>Shinto</item>
+        <item>Spiritism</item>
+        <item>Tenrikyo</item>
+        <item>Unitarian Universalism</item>
+        <item>Zoroastrianism</item>
+        <item>primal indigenous</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="Pretraining">
+        <item>पूर्व प्रशिक्षण की स्थिति*</item>
+        <!--   <item>Fresher</item>
+           <item>Experienced</item>-->
+        <item>नए सिरे से</item>
+        <item>अनुभवी</item>
+
+    </string-array>
+
+    <string-array name="Pretrainingssc">
+        <item>पूर्व प्रशिक्षण की स्थिति*</item>
+        <item>अनुभव</item>
+    </string-array>
+
+    <string name="bank_address">बैंक का पता</string>
+
+    <!--//error msg change 3 dec by pk
+    //error msg change 3 dec by pk-->
+
+    <string name="err_msg_for_religion">Select the religion</string>
+
+    <string name="hint_batch_id">Batch ID</string>
+    <string name="txtAppName">\tTesta</string>
+
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="picture">Picture</string>
+    <string name="txtTheory">Theory</string>
+    <string name="txtViva">Viva</string>
+    <string name="tehsil_mandal_block">तहसील/मंडल/ब्लॉक</string>
+    <string name="tehsil_mandal_blockk">तहसील/मंडल/ब्लॉक*</string>
+
+    <string name="err_msg_for_year">Enter a valid Passing Year(4 Digits allowed)</string>
+
+    <string name="err_msg_for_Martial">Select the Martial Status</string>
+
+    <string name="err_msg_for_Domicial_state">Select the Domicial state</string>
+    <string name="err_msg_for_Domicial_dis">Select the Domicial District</string>
+    <string name="err_msg_for_pre">Select the pre training status</string>
+
+    <string name="err_msg_for_Alternate_id_corporate">Select Identity proof</string>
+
+    <string name="err_msg_for_bank">Select Bank Name</string>
+    <string name="err_msg_for_education">Select the Education Details</string>
+    <string name="err_msg_for_disability">Select Disability</string>
+
+    <string name="errUsrNameAuth">Entered <b>USERNAME</b> is incorrect.\n Please, Try with different Username.</string>
+    <string name="errPwdAuth">Entered <b>PASSWORD</b> is incorrect.\n Please, Try with different Password.</string>
+
+    <string name="err_msg_for_category">Select Category</string>
+    <string name="err_msg_for_gender1">Select  Gender</string>
+    <string name="err_msg_for_Year">Select Year</string>
+
+    <string name="err_msg_for_Month">Select Month</string>
+    <string name="err_msg_for_Date">Select Date</string>
+    <!--    exp year and month-->
+    <string name="err_msg_for_years">Years of Experience*</string>
+    <string name="err_msg_for_select_year">Select Years of Experience</string>
+
+    <string name="candidate_experience">उम्मीदवार अनुभव</string>
+
+    <!--//Changes of 5th Dec-->
+    <string-array name="Select_the_DState">
+        <item>निवास राज्य चुनें* </item>
+    </string-array>
+
+    <string-array name="Select_the_DDistrict">
+        <item>निवास जिला चुनें* </item>
+    </string-array>
+
+    <string name="select_domicile_statee">निवास राज्य चुनें*</string>
+    <string name="select_domicile_districtt">निवास जिला चुनें* </string>
+    <string name="selectjobrole">नौकरी की भूमिका का चयन करें*</string>
+    <string name="preffered_language">आपकी पसंदीदा भाषा*</string>
+    <string name="upload_documentnonmand">दस्तावेज़ अपलोड करें</string>
+
+    <!-- //error messages-->
+    <string name="err_msg_for_mother">Enter Mother\'s name </string>
+    <string name="declaration">घोषणा</string>
+    <string name="_1_i_agree_to_provide_my_uidai_number_for_authentication_process_under_rpl_project">1.मैं RPL परियोजना के तहत प्रमाणीकरण प्रक्रिया के लिए अपना आधार कार्ड नंबर प्रदान करने के लिए सहमत हूं</string>
+    <string name="_2_the_data_entered_is_true_and_verified">2.दर्ज किया गया डेटा सही और सत्यापित है</string>
+    <string name="_2_the_data_entered_is_true_and_verified1">दर्ज किया गया डेटा सही और सत्यापित है</string>
+    <string name="_3_i_authorize_radiant_to_upload_my_information_on_sdms">3.मैं स्किल इंडिया पोर्टल पर अपनी जानकारी अपलोड करने के लिए Radiant को अधिकृत करता हूं</string>
+
+    <string name="corporate_Agree">1.मैं अपना आधार नंबर /वैकल्पिक पहचान पत्र प्रदान करने के लिए सहमत हूं।</string>
+    <string name="corporate_Agree1">2.मेरे द्वारा प्रदान की गई उपरोक्त सभी जानकारी सत्य है।</string>
+    <string name="corporate_Agree2">3.मैं SDMS / SIP पर अपनी जानकारी अपलोड करने के लिए Radiant Infonet (P) Limited को अधिकृत करता हूं।</string>
+
+    <string name="txtBatchDetail">Batch Detail</string>
+    <string name="txtSummary">Summary</string>
+    <string name="txtName">Name</string>
+    <string name="txtDataSyncDetail">Data Sync Detail</string>
+    <string name="txtTotalStu">Total Student</string>
+    <string name="correspondance_address_details">पत्राचार का पता</string>
+    <string name="is_permanent_address_same">पत्राचार का पता और स्थायी पता समान है?</string>
+    <string name="selectpitchers">चित्र का चयन करें</string>
+    <string name="camera">कैमरा</string>
+    <string name="choose_from_gallery">गैलरी से चयन करो</string>
+    <string name="choose_file">फाइलें चुनें</string>
+    <string name="cancel">रद्द करना</string>
+
+    <string-array name="jobroleselect">
+        <item>नौकरी की भूमिका का चयन करें*</item>
+    </string-array>
+
+    <string-array name="subsectorselect">
+        <item>सब सेक्टर का चयन करें</item>
+    </string-array>
+
+    <string-array name="prefferedlanguageselect">
+        <item>आपकी पसंदीदा भाषा*</item>
+    </string-array>
+
+    <string-array name="banknameselect">
+        <item>बैंक चुने*</item>
+    </string-array>
+
+    <!--//error messages in Hindi-->
+    <string name="err_msg_formobile_hi">यह 10 अंकों का होना चाहिए, शून्य नहीं होना चाहिए</string>
+    <string name="err_msg_for_first_name_hi">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_first_name_hii">एम्प्लायर का नाम दर्ज करें</string>
+    <string name="err_msg_for_last_name_hi">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_address1_hi">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_pincode_hi">यह 6 अंकों का होना चाहिए</string>
+    <string name="err_msg_for_namein_bank_hi">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_ifsc_hi">यह अल्फ़ान्यूमेरिक और कैपिटल लेटर्स में होना चाहिए</string>
+    <string name="err_msg_for_acno_hi">इसे लिखना होगा और यह 6 से 18 अंकों के बीच होना चाहिए |</string>
+    <string name="err_msg_for_father_hi">पिता का नाम दर्ज करें</string>
+
+    <string name="err_msg_for_father">पिता का नाम दर्ज करें</string>
+
+    <string name="err_msg_for_year_hi">एक वैध पासिंग वर्ष (4 अंक अनुमत) दर्ज करें</string>
+    <string name="err_msg_for_mother_hi">माँ का नाम दर्ज करें</string>
+    <string name="err_msg_for_birthPlace1">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+
+    <string name="apprentice_id">अपरेंटिस आईडी*(पोर्टल के अनुसार)</string>
+    <string name="fulladdress">पता*</string>
+
+    <string name="employer_assessor_name">आंकलन करने वाले का नाम*</string>
+    <string name="employer_assessor_emaild">आंकलन करने वाले की ईमेल आइडी*</string>
+    <string name="employer_assessor_phone_no">आंकलन करने वाले का फ़ोन न.*</string>
+    <string name="err_msg_for_name">Enter a valid name</string>
+    <string name="err_msg_for_EmpAname">Enter a valid Employer Assessor name</string>
+    <string name="err_msg_for_EmpemailID">Enter a valid Employer Assessor Email ID</string>
+    <string name="err_msg_for_EmpphoneNo">Enter a valid Employer Assessor Phoneno</string>
+    <string name="apprenticeIDerror">Enter valid Apprentice ID</string>
+    <string name="examination_details">परीक्षा विवरण</string>
+    <string name="err_msg_for_dateofassess_hi">परीक्षा की तिथि दर्ज करे</string>
+    <string name="employer_spoc_name">SPOC का नाम</string>
+    <string name="employer_spoc_phone_no">SPOC का फ़ोन न.</string>
+    <string name="employer_spoc_email_id">SPOC की ईमेल आइडी</string>
+    <string name="date_of_assessment">परीक्षा की तारीख़*</string>
+    <string name="err_msg_for_city_hi">शहर का नाम दर्ज करें</string>
+    <string name="err_msg_for_guardian_hi">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+
+    <string name="err_msg_for_city">शहर का नाम दर्ज करें</string>
+
+    <string name="apprenticeIDerror_hi">अपरेंटिस की आइडी दर्ज करे</string>
+    <string name="err_msg_for_EmpAname_hi">आंकलनकर्ता का नाम दर्ज करें</string>
+    <string name="err_msg_for_EmpemailID_hi">आंकलनकर्ता की ईमेल आईडी दर्ज करें</string>
+    <string name="err_msg_for_EmpphoneNo_hi">आंकलनकर्ता का फ़ोन न. दर्ज करें</string>
+    <string name="amway_aadhar_snack_hi">आधार न. वैध नहीं है</string>
+    <string name="errorforwrongform">सभी फील्ड अनिवार्य। त्रुटियों के लिए फ़ॉर्म की जाँच करें</string>
+
+    <string name="hint_citymand">Enter a valid City Name*</string>
+
+    <string name="err_msg_email_hi">मान्य ईमेल दर्ज करें</string>
+
+    <string name="prev_sector">पूर्व सेक्टर का चयन करें*</string>
+    <string name="prev_sectorss">पूर्व सेक्टर का चयन करें</string>
+    <string name="txtDownloadedBatch">Download Batch</string>
+    <string name="txtPleaseWait">कृपया प्रतीक्षा करें</string>
+    <string name="txtPending">बचा है</string>
+    <string name="txtDoSync">सिंक करें</string>
+    <string name="txtSynced">सिंक हो गया</string>
+
+    <string name="Benefits1"> 1) अभ्यर्थियों को कौशल प्रमाणपत्र और मार्क शीट प्रदान की जाएगी। यदि उम्मीदवार का मोबाइल नंबर दर्ज किया गया है, तो PIA को उन्हें एसएमएस के माध्यम से उपरोक्त विवरण के बारे में सूचित किया जायेगा।</string>
+    <string name="Benefits2"> 2) उम्मीदवारों को उनकी पात्रता के आधार पर 500\u20B9 प्रदान किया जाएगा। पे-आउट सीधे उम्मीदवार के पंजीकृत बैंक खाते में जमा किया जाएगा जो आधार से जुड़ा हुआ है। इसलिए नामांकन के लिए पंजीकरण फॉर्म पर आधार से जुड़े बैंक विवरण प्रदान करना सुनिश्चित करें।</string>
+    <string name="Benefits3">3) सभी RPL प्रमाणित उम्मीदवारों को न्यू इंडिया एश्योरेंस कंपनी लिमिटेड से तीन साल का आकस्मिक बीमा प्राप्त होगा। उम्मीदवारों के लिए बीमा धन PIA पे-आउट से काटा जाएगा। प्रमाण पत्र पर दुर्घटना बीमा की एक अनूठी पॉलिसी नंबर का उल्लेख किया गया है, जिसे संबंधित प्रमाणित उम्मीदवारों को प्रदान किया जाना है।</string>
+    <string name="benifit_rpl1">RPL-1 के तहत लाभ कर्मचारी के लिए:</string>
+    <string name="benifit_rpl2">RPL-2 के तहत लाभ कर्मचारी के लिए :</string>
+    <string name="benifit_rpl3">RPL-3 के तहत लाभ कर्मचारी के लिए :</string>
+    <string name="SchemeRpl1"> * राष्ट्रीय कौशल विकास निगम (NSDC) द्वारा कार्यान्वित प्रधान मंत्री कौशल विकास योजना (PMKVY) के तहत भारत सरकार (GOI) की मान्यता, कौशल विकास और उद्यमिता मंत्रालय (MSDE) की एक पहल है।</string>
+
+    <string name="SchemeRpl2">RPL-1 के मुख्य उद्देश्य हैं:</string>
+    <string name="SchemeRpl21">RPL-2 के मुख्य उद्देश्य हैं:</string>
+    <string name="SchemeRpl211">RPL-3 के मुख्य उद्देश्य हैं:</string>
+
+    <string name="SchemeRpl3"> • देश के  पूर्व मौजूदा कार्यबल की योग्यता को मानकीकृत राष्ट्रीय कौशल योग्यता फ्रेमवर्क (NSQF) में संरेखित करना.</string>
+    <string name="SchemeRpl4"> • किसी व्यक्ति की रोजगार और / या उद्यमशीलता के अवसरों को बढ़ाने के लिए.</string>
+    <string name="SchemeRpl5"> • दूसरों पर ज्ञान के कुछ रूपों को विशेषाधिकार देने के आधार पर असमानताओं को कम करने के अवसर प्रदान करना.</string>
+
+    <string name="enter_your_scheme">अपनी योजना चुनें</string>
+
+    <string name="Scheme_name">योजना का नाम*</string>
+    <string name="schemeMsg">कृपया योजना का चयन करें यह अनिवार्य है</string>
+    <string name="companytitle"><![CDATA[Scheme & Company]]></string>
+
+    <string name="prev_jobrole">पूर्व नौकरी का चयन करे</string>
+
+    <string name="Exp">Experienced</string>
+
+    <string name="_1_i_agree_to_provide_my_uidai_number_for_authentication_process_under_apprentice_project">1.मैं Apprentice परियोजना के तहत प्रमाणीकरण प्रक्रिया के लिए अपना UIDAI नंबर प्रदान करने के लिए सहमत हूं</string>
+    <string name="decboxvalidation">कृपया डिक्लेरेशन बॉक्स को चेक करें</string>
+    <string name="upload_bank_document">बैंक दस्तावेज़ अपलोड करें</string>
+
+    <string name="vs1">1 परीक्षा की अवधि 50 मिनट होगी।</string>
+    <string name="vs2">2 सभी प्रश्न अनिवार्य हैं।</string>
+    <string name="vs3">3 स्क्रीन के दाईं ओर प्रदर्शित प्रश्न पैलेट निम्नलिखित प्रतीकों में से किसी एक का उपयोग करके प्रत्येक प्रश्न की स्थिति दिखाएगा:</string>
+    <string name="vs4">3.1  आपने समीक्षा के लिए उत्तर को चिह्नित किया है।</string>
+    <string name="vs5">3.2   आपने उत्तर सहेज लिया है।</string>
+    <string name="vs6">3.3  आपने सवाल का जवाब नहीं दिया है।</string>
+    <string name="vs7">4 उत्तर के एकाधिक चयन की अनुमति नहीं है, अर्थात सभी प्रश्नों में 1 सही उत्तर है।</string>
+    <string name="vs8">5 वर्तमान प्रश्न के लिए अपना उत्तर बचाने के लिए सहेजें और अगला पर क्लिक करें और फिर यह अगले प्रश्न पर जाएगा।</string>
+    <string name="vs9">6 छात्रों को परीक्षा के लिए आवंटित 50 मिनट की समय-सीमा के भीतर 25-प्रश्न के बहुविकल्पीय परीक्षा को पूरा करना होगा।</string>
+    <string name="vs10">7 एप्लिकेशन को बंद न करें और मूल्यांकन के बीच में बाहर न जाएं।</string>
+    <string name="contactMarque">किसी भी प्रश्न के लिए कृपया हमसे संपर्क करें 8929486900/8929486904/7303099344/7303507547</string>
+
+    <string name="click_for_company">अपनी कंपनी चुनें</string>
+
+    <string name="training_end_date">प्रशिक्षण समाप्ति दिनांक</string>
+    <string name="training_start_date">प्रशिक्षण प्रारंभ दिनांक</string>
+    <string name="apprentice_designation">अपरेंटिस पदनाम</string>
+    <string name="apprentice_contract_id">अपरेंटिस अनुबंध आईडी</string>
+    <string name="organisation_id">संगठन आई.डी.</string>
+
+    <string name="guardian_name">अभिभावक का नाम*</string>
+
+    <string name="mat_statusMale">विदुर</string>
+    <string name="mat_statusFemale">विधवा</string>
+
+    <!--    //new-->
+    <string name="channel_error_title">Connection error</string>
+    <string name="ok">OK</string>
+    <string name="switch_camera">Switch front/back camera</string>
+    <string name="capture_format_change_text">Slide to change capture format</string>
+    <string name="toggle_mic">Toggle microphone on/off</string>
+    <string name="connect_description">Connect to the room</string>
+
+    <!-- Settings strings. -->
+
+    <string name="pref_videosettings_key">video_settings_key</string>
+    <string name="pref_videosettings_title">WebRTC video settings.</string>
+
+    <string name="pref_videocall_key">videocall_preference</string>
+    <string name="pref_videocall_title">Video call.</string>
+    <string name="pref_videocall_dlg">Enable video in a call.</string>
+    <string name="pref_videocall_default">true</string>
+
+    <string name="pref_screencapture_key">screencapture_preference</string>
+    <string name="pref_screencapture_title">Use screencapture.</string>
+    <string name="pref_screencapture_default">false</string>
+
+    <string name="pref_camera2_key">camera2_preference</string>
+    <string name="pref_camera2_title">Use Camera2.</string>
+    <string name="pref_camera2_default">true</string>
+
+    <string name="pref_resolution_key">resolution_preference</string>
+    <string name="pref_resolution_title">Video resolution.</string>
+    <string name="pref_resolution_dlg">Enter AppRTC local video resolution.</string>
+    <string name="pref_resolution_default">Default</string>
+
+    <string name="pref_fps_key">fps_preference</string>
+    <string name="pref_fps_title">Camera fps.</string>
+    <string name="pref_fps_dlg">Enter local camera fps.</string>
+    <string name="pref_fps_default">Default</string>
+
+    <string name="pref_capturequalityslider_key">capturequalityslider_preference</string>
+    <string name="pref_capturequalityslider_title">Capture quality slider.</string>
+    <string name="pref_capturequalityslider_dlg">Enable slider for changing capture quality.</string>
+    <string name="pref_capturequalityslider_default">false</string>
+
+    <string name="pref_maxvideobitrate_key">maxvideobitrate_preference</string>
+    <string name="pref_maxvideobitrate_title">Maximum video bitrate setting.</string>
+    <string name="pref_maxvideobitrate_dlg">Maximum video bitrate setting.</string>
+    <string name="pref_maxvideobitrate_default">Default</string>
+
+    <string name="pref_maxvideobitratevalue_key">maxvideobitratevalue_preference</string>
+    <string name="pref_maxvideobitratevalue_title">Video encoder maximum bitrate.</string>
+    <string name="pref_maxvideobitratevalue_dlg">Enter video encoder maximum bitrate in kbps.</string>
+    <string name="pref_maxvideobitratevalue_default">1700</string>
+
+    <string name="pref_videocodec_key">videocodec_preference</string>
+    <string name="pref_videocodec_title">Default video codec.</string>
+    <string name="pref_videocodec_dlg">Select default video codec.</string>
+    <string name="pref_videocodec_default">VP8</string>
+
+    <string name="pref_hwcodec_key">hwcodec_preference</string>
+    <string name="pref_hwcodec_title">Video codec hardware acceleration.</string>
+    <string name="pref_hwcodec_dlg">Use hardware accelerated video codec (if available).</string>
+    <string name="pref_hwcodec_default">true</string>
+
+    <string name="pref_capturetotexture_key">capturetotexture_preference</string>
+    <string name="pref_capturetotexture_title">Video capture to surface texture.</string>
+    <string name="pref_capturetotexture_dlg">Capture video to textures (if available).</string>
+    <string name="pref_capturetotexture_default">true</string>
+
+    <string name="pref_flexfec_key">flexfec_preference</string>
+    <string name="pref_flexfec_title">Codec-agnostic Flexible FEC.</string>
+    <string name="pref_flexfec_dlg">Enable FlexFEC.</string>
+    <string name="pref_flexfec_default">false</string>
+
+    <string name="pref_audiosettings_key">audio_settings_key</string>
+    <string name="pref_audiosettings_title">WebRTC audio settings.</string>
+
+    <string name="pref_startaudiobitrate_key">startaudiobitrate_preference</string>
+    <string name="pref_startaudiobitrate_title">Audio bitrate setting.</string>
+    <string name="pref_startaudiobitrate_dlg">Audio bitrate setting.</string>
+    <string name="pref_startaudiobitrate_default">Default</string>
+
+    <string name="pref_startaudiobitratevalue_key">startaudiobitratevalue_preference</string>
+    <string name="pref_startaudiobitratevalue_title">Audio codec bitrate.</string>
+    <string name="pref_startaudiobitratevalue_dlg">Enter audio codec bitrate in kbps.</string>
+    <string name="pref_startaudiobitratevalue_default">32</string>
+
+    <string name="pref_audiocodec_key">audiocodec_preference</string>
+    <string name="pref_audiocodec_title">Default audio codec.</string>
+    <string name="pref_audiocodec_dlg">Select default audio codec.</string>
+    <string name="pref_audiocodec_default">OPUS</string>
+
+    <string name="pref_noaudioprocessing_key">audioprocessing_preference</string>
+    <string name="pref_noaudioprocessing_title">Disable audio processing.</string>
+    <string name="pref_noaudioprocessing_dlg">Disable audio processing pipeline.</string>
+    <string name="pref_noaudioprocessing_default">false</string>
+
+    <string name="pref_aecdump_key">aecdump_preference</string>
+    <string name="pref_aecdump_title">Create aecdump.</string>
+    <string name="pref_aecdump_dlg">Enable diagnostic audio recordings.</string>
+    <string name="pref_aecdump_default">false</string>
+
+    <string name="pref_opensles_key">opensles_preference</string>
+    <string name="pref_opensles_title">Use OpenSL ES for audio playback.</string>
+    <string name="pref_opensles_dlg">Use OpenSL ES for audio playback.</string>
+    <string name="pref_opensles_default">false</string>
+
+    <string name="pref_disable_built_in_aec_key">disable_built_in_aec_preference</string>
+    <string name="pref_disable_built_in_aec_title">Disable hardware AEC.</string>
+    <string name="pref_disable_built_in_aec_dlg">Disable hardware AEC.</string>
+    <string name="pref_disable_built_in_aec_default">false</string>
+
+    <string name="pref_disable_built_in_agc_key">disable_built_in_agc_preference</string>
+    <string name="pref_disable_built_in_agc_title">Disable hardware AGC.</string>
+    <string name="pref_disable_built_in_agc_dlg">Disable hardware AGC.</string>
+    <string name="pref_disable_built_in_agc_default">false</string>
+
+    <string name="pref_disable_built_in_ns_key">disable_built_in_ns_preference</string>
+    <string name="pref_disable_built_in_ns_title">Disable hardware NS.</string>
+    <string name="pref_disable_built_in_ns_dlg">Disable hardware NS.</string>
+    <string name="pref_disable_built_in_ns_default">false</string>
+
+    <string name="pref_enable_level_control_key">enable_level_control_preference</string>
+    <string name="pref_enable_level_control_title">Enable level control.</string>
+    <string name="pref_enable_level_control_default">false</string>
+
+    <string name="pref_speakerphone_key">speakerphone_preference</string>
+    <string name="pref_speakerphone_title">Speakerphone.</string>
+    <string name="pref_speakerphone_dlg">Speakerphone.</string>
+    <string name="pref_speakerphone_default">auto</string>
+
+    <string name="pref_datasettings_key">data_settings_key</string>
+    <string name="pref_datasettings_title">WebRTC data channel settings.</string>
+
+    <string name="pref_enable_datachannel_key">enable_datachannel_preference</string>
+    <string name="pref_enable_datachannel_title">Enable datachannel.</string>
+    <string name="pref_enable_datachannel_default" translatable="false">true</string>
+
+    <string name="pref_ordered_key">ordered_preference</string>
+    <string name="pref_ordered_title">Order messages.</string>
+    <string name="pref_ordered_default" translatable="false">true</string>
+
+    <string name="pref_data_protocol_key">Subprotocol</string>
+    <string name="pref_data_protocol_title">Subprotocol.</string>
+    <string name="pref_data_protocol_dlg">Enter subprotocol.</string>
+    <string name="pref_data_protocol_default" translatable="false"></string>
+
+    <string name="pref_negotiated_key">negotiated_preference</string>
+    <string name="pref_negotiated_title">Negotiated.</string>
+    <string name="pref_negotiated_default" translatable="false">false</string>
+
+    <string name="pref_max_retransmit_time_ms_key">max_retransmit_time_ms_preference</string>
+    <string name="pref_max_retransmit_time_ms_title">Max delay to retransmit.</string>
+    <string name="pref_max_retransmit_time_ms_dlg">Enter max delay to retransmit (in ms).</string>
+    <string name="pref_max_retransmit_time_ms_default" translatable="false">-1</string>
+
+    <string name="pref_max_retransmits_key">max_retransmits_preference</string>
+    <string name="pref_max_retransmits_title">Max attempts to retransmit.</string>
+    <string name="pref_max_retransmits_dlg">Enter max attempts to retransmit.</string>
+    <string name="pref_max_retransmits_default" translatable="false">-1</string>
+
+    <string name="pref_data_id_key">data_id_preference</string>
+    <string name="pref_data_id_title">Data id.</string>
+    <string name="pref_data_id_dlg">Enter data channel id.</string>
+    <string name="pref_data_id_default" translatable="false">-1</string>
+
+    <string name="pref_miscsettings_key">misc_settings_key</string>
+    <string name="pref_miscsettings_title">Miscellaneous settings.</string>
+
+    <string name="pref_room_server_url_key">room_server_url_preference</string>
+    <string name="pref_room_server_url_title">Room server URL.</string>
+    <string name="pref_room_server_url_dlg">Enter a room server URL.</string>
+    <string name="pref_room_server_url_default" translatable="false">https://appr.tc</string>
+
+    <string name="pref_displayhud_key">displayhud_preference</string>
+    <string name="pref_displayhud_title">Display call statistics.</string>
+    <string name="pref_displayhud_dlg">Display call statistics.</string>
+    <string name="pref_displayhud_default" translatable="false">false</string>
+
+    <string name="pref_tracing_key">tracing_preference</string>
+    <string name="pref_tracing_title">Debug performance tracing.</string>
+    <string name="pref_tracing_dlg">Debug performance tracing.</string>
+    <string name="pref_tracing_default" translatable="false">false</string>
+    <string name="welcome">स्वागत</string>
+    <string name="enter_room_id_that_has_been_shared">साझा की गई रूम आईडी दर्ज करें</string>
+    <string name="enter_room_id">रूम आईडी दर्ज करें</string>
+    <string name="click_for_check_another_exam">एक और परीक्षा चेक करने के लिए क्लिक करें</string>
+    <string name="user">उपयोगकर्ता</string>
+    <string name="info">जानकारी:</string>
+    <string name="note">यदि आपकी दूरस्थ प्रायोगिक परीक्षा पूरी हो गई है, तो सिद्धांत परीक्षा का प्रयास करने के लिए \'Ok\' पर क्लिक करें</string>
+    <string name="leftattempt">आपकी वाइवा परीक्षा बाकी है क्या आप अभी प्रयास कर रहे हैं?</string>
+    <string name="examcomplete">यदि आपकी दूरस्थ प्रायोगिक परीक्षा पूरी हो गई है, तो लॉगआउट के लिए OK पर क्लिक करें।</string>
+    <string name="if_you_complete_the_call_please_mark_the_complete_the_test">If you complete the Call please mark the complete the Test</string>
+    <string name="certificate_sample">Certificate Sample:-</string>
+    <string name="download">Download</string>
+    <string name="helpline_no">हेल्पलाइन नंबर</string>
+    <string name="helpline_no_1">हेल्पलाइन नंबर 1</string>
+    <string name="helpline_no_2">हेल्पलाइन नंबर 2</string>
+    <string name="helpline_no_3">हेल्पलाइन नंबर 3</string>
+    <string name="contactus">संपर्क करें</string>
+    <string name="helpline_no_4">हेल्पलाइन नंबर 4</string>
+    <string name="tollfree">कर मुक्त नंबर</string>
+
+    <string name="do_not_show_this_again">इसे दोबारा मत दिखाइए!</string>
+    <string name="is_correspondance_address_same">क्या पत्राचार का पता समान है?</string>
+    <string name="pre_training_status">पूर्व प्रशिक्षण स्थिति</string>
+    <string name="feedback_form">प्रतिक्रिया फॉर्म</string>
+    <string name="assessor_name">
+निर्धारक का नाम*</string>
+    <string name="submitquuery">क्वेरी सबमिट करें</string>
+
+
+
+    <string name="assistcall">तकनीकी सहायता के लिए कृपया कॉल करें</string>
+
+    <string name="alert">चेतावनी</string>
+
+
+    <string name="_1_the_objective_of_the_assessment_was_clear_to_you">◦The objective of the assessment was clear to you.</string>
+    <string name="_2_the_assessor_was_supportive_and_helped_wherever_possible">◦The assessor was supportive and helped wherever possible.</string>
+    <string name="_3_the_language_and_content_of_the_assessment_was_easy_to_understand">◦The language and content of the assessment was easy to understand.</string>
+    <string name="_4_was_stipulated_time_provided_for_assessment">◦ Was stipulated time provided for assessment.</string>
+    <string name="_5_were_required_tools_and_equipment_available_at_the_centre">◦Were required tools and equipment available at the centre</string>
+    <string name="_6_feel_free_to_add_any_other_comments_or_suggestions">◦ Feel free to add any other comments or suggestions:</string>
+    <string name="type_here">यहाँ टाइप करें</string>
+
+    <string name="describe_your_problem">अपनी समस्या का वर्णन करें</string>
+    <string name="add_screenshot_optional">स्क्रीनशॉट जोड़ें (वैकल्पिक)</string>
+    <string name="next">अगला</string>
+    <string name="otpreceviedText">कृपया %1$s पर प्राप्त ओटीपी दर्ज करें।</string>
+    <string name="shr_error_password">OTP में कम से कम 6 अंक होने चाहिए</string>
+
+    <string name="exitpage">क्या आप इस पेज से बाहर निकलना चाहते हैं?</string>
+
+    <!--  /Amar/-->
+    <string name="chlangen">ऐप भाषा चुनें</string>
+    <string name="text1"><font color='#0E0E0E'>लॉगइन करने के लिए विवरण भरें</font></string>
+    <string name="text2"><font color='#0E0E0E'>लॉगिन खाता</font></string>
+    <string name="registers">खाता नहीं है?</string>
+    <string name="register1"><![CDATA[<font color="%1$s"><b> रजिस्टर करे</b></font>]]></string>
+    <string name="mark">अगले पृष्ठ पर अपनी उपस्थिति को चिह्नित करें और मूल्यांकन शुरू करने के लिए निर्देशों का पालन करें।</string>
+    <string name="first">First Name :</string>
+    <string name="question">प्रश्न</string>
+    <string name="thank"><u>बाहर जाएं</u></string>
+
+    <!--  /18/01/21/-->
+    <string name="already_register_please_login">पहले से पंजीकृत?</string>
+    <string name="sign_in_with_google">Google के ज़रिये साइन इन करें</string>
+    <string name="email_id">ईमेल आईडी दर्ज करें</string>
+    <string name="enter_mobile_number">मोबाइल नंबर दर्ज करें</string>
+    <string name="enter_full_name">नाम दर्ज करें</string>
+    <string name="fill_the_details">विवरण भरें</string>
+    <string name="submit">आगे बढ़ें</string>
+    <string name="or">और</string>
+    <string name="already_login"><![CDATA[<font color="%1$s"><b>प्लीज लॉग इन</b></font>]]></string>
+    <string name="verify_proceed"><![CDATA[सत्यापित करें और आगे बढ़ें]]></string>
+    <string name="didn_t_received_otp_resend"><![CDATA[ओटीपी प्राप्त नहीं हुआ? <b><font color=#FF0000> पुन: भेजे</font></b>]]></string>
+    /Amar/
+    <string name="free_test">फ्री टेस्ट</string>
+    <string name="video_call">वीडियो कॉल</string>
+    <string name="help_and_support">हेल्प एंड सपोर्ट</string>
+    <string name="become_an_assesor">एस्सेसर के लिए आवेदन करें</string>
+    <string name="register_for_exam">परीक्षा के लिए पंजीकरण करें</string>
+    <string name="lan_change">भाषा बदलें</string>
+    <string name="terms_of_services_privacy"><![CDATA[सेवा और गोपनीयता के नियम एवं शर्तें]]></string>
+    <string name="device_location">स्थान की अनुमति</string>
+    <string name="device_location_data">मूल्यांकन के लिए अभ्यर्थियों को डिजिटल रूप से उपस्थिति को चिह्नित करने के लिए अपने स्थान की पहुंच साझा करना अनिवार्य है। हम इस विषय की संवेदनशीलता को समझते हैं और हम उपयोगकर्ता डेटा को किसी के साथ साझा नहीं करते हैं।</string>
+    <string name="storage_permission">स्टॉरिज की अनुमति</string>
+    <string name="storage_data">एक उम्मीदवार को मूल्यांकन में प्रकट होने के लिए अपने उपकरण के स्टॉरिज की पहुंच को साझा करना होगा। हमें मूल्यांकन के दौरान उम्मीदवार की गतिविधि को जाँचने और उनकी उपस्थिति को चिह्नित करने के लिए स्टॉरिज अनुमति की आवश्यकता होती है। मूल्यांकन पूरा होने के बाद, हम ली गई छवियों को स्वचालित रूप से हटा देते हैं। हम उपयोगकर्ता के व्यक्तिगत डेटा को नष्ट नहीं करते हैं।</string>
+    <string name="camera_permission">कैमरा की अनुमति</string>
+    <string name="camera_permission_tv">उम्मीदवारों को अपने उपकरण के कैमरे को साझा करना होगा। इस अनुमति के माध्यम से, हम उपस्थिति के लिए उम्मीदवार की पहचान को मान्य करते हैं, मूल्यांकन के दौरान मौजूद अन्य चेहरों का पता लगाते हैं, और अखंडता बनाए रखने के लिए लाइव वेब कैमरे के साथ फोटो को कैप्चर करते हैं।</string>
+    <string name="network_connection_tv">नेटवर्क कनेक्शन की जानकारी</string>
+    <string name="network_data">एक उम्मीदवार को अपने डिवाइस नेटवर्क कनेक्टिविटी को साझा करना होगा क्योंकि हमें नेटवर्क रुकावट के दौरान परेशानी मुक्त मूल्यांकन चलाने के लिए एक जैसा होना चाहिए। हमारा एप्लिकेशन मूल्यांकन के दो तरीकों के लिए नेटवर्क कनेक्टिविटी का प्रबंधन करता है अर्थात् ऑफ़लाइन और ऑनलाइन, इसलिए हमें उपयोगकर्ता के नेटवर्क की अनुमति के लिए मूल्यांकन को सुचारू रूप से संचालित करने की आवश्यकता होती है।</string>
+    <string name="microphone_permission">माइक्रफोन की अनुमति</string>
+    <string name="microphone_tv">उम्मीदवारों को अपने माइक्रोफोन की पहुँच साझा करना अनिवार्य है। माइक्रोफोन की अनुमति से, हम एक धोखा रहित वातावरण सुनिश्चित करने के लिए मूल्यांकन के दौरान आवाज़ रिकॉर्ड करते हैं।</string>
+    <string name="phone_permission">फोन की अनुमति</string>
+    <string name="phone_data">उपयोगकर्ता को हेल्पलाइन नंबर पर कॉल करने की आवश्यकता होने पर मूल्यांकन में उपस्थित होने के दौरान एक उम्मीदवार को अपने फोन का उपयोग साझा करना होगा ताकि हम उन्हें तुरंत कनेक्ट कर सकें।.</string>
+    <string name="note_we_do_not_share_user_or_candidate_data_with_anyone">नोट- हम उपयोगकर्ता या उम्मीदवार के डेटा को किसी के साथ साझा नहीं करते हैं।</string>
+    <string name="i_agree">मैं सहमत हूँ</string>
+    <string name="app_permissions">ऐप की अनुमति</string>
+    <string name="alertexit">क्या आप इस ऐप से बाहर निकलना चाहते हैं?</string>
+    <string name="yes">हां</string>
+    <string name="no">नहीं</string>
+
+    <string-array name="reg_list">
+        <item>पूर्व शिक्षण \nकी मान्यता\n(RPL)</item>
+        <item>राष्ट्रीय शिक्षुता\nप्रोत्साहन योजना\n(NAPS)</item>
+        <item>विसुअल\nमर्चेंडाइजिंग\nस्क्रीनिंग\nटेस्ट</item>
+        <item>ग्रामीण विकास मंत्रालय\n(MORD)</item>
+        <item>कॉर्पोरेट</item>
+
+    </string-array>
+    <!-- <string name="rpl">रिकग्निशन\nप्रायर लर्निंग\n(RPL)</string>
+     <string name="naps">राष्ट्रीय शिक्षुता\nपदोन्नति योजना\n(NAPS)</string>
+     <string name="vmst">विसुअल\मर्चेंडाइजिंग\nस्क्रीनिंग\न्टेस्ट</string>
+     <string name="mord">ग्रामीण विकास मंत्रालय\n(MORD)</string>
+     <string name="corprate">कॉर्पोरेट</string>-->
+
+
+    <string name="privacy_policy">गोपनीयता नीति</string>
+
+    <string name="service_not_available">सेवा उपलब्ध नहीं है</string>
+    <string name="no_address_found">कोई पता नहीं मिला</string>
+    <string name="invalid_lat_long_used">अमान्य निर्देशांक का उपयोग किया गया</string>
+
+    <string name="welcome_guidelines"><b> <br>दिशा-निर्देश \n </br>
+
+   दिशा-निर्देश </b></string>
+
+    <!--    <string name="welcome_guidelines"><b>दिशा-निर्देश</b></string>-->
+    <!--    <string name="welcome_txt1">1.उम्मीदवार को पूरे मूल्यांकन में फ्रंट कैमरा / वेब कैमरा रखने की आवश्यकता है।</string>-->
+    <!--    <string name="welcome_item2">2.उम्मीदवार को यह सुनिश्चित करना होगा कि वह उस वातावरण में आकलन के लिए उपस्थित हो रहा है, जहां परिवार के किसी भी सदस्य / मित्र या किसी अन्य तीसरी संस्था द्वारा कम से कम गड़बड़ी, घुसपैठ या हस्तक्षेप हो, जो आकलन एजेंसी के अधिकृत प्रतिनिधि के अलावा अन्य किसी अन्य संस्था से हो 8929486900 (सर्वेश राय) या 7303099344 (विकुल भटनागर)।</string>-->
+    <!--    <string name="welcome_item3">3.मूल्यांकन शुरू करने के बाद यदि उम्मीदवार कैमरा और परीक्षण विंडो / मूल्यांकन पृष्ठ (वेब ​​या ऐप) से 30 बार से अधिक चलता है, तो लॉगिन अवरुद्ध हो जाएगा और इसके लिए विशिष्ट उम्मीदवार मूल्यांकन "पूर्ण" के रूप में खड़ा होगा।</string>-->
+    <!--    <string name="welcome_item4">4.चूंकि परीक्षण के दौरान लगातार चेहरे का पता लगाया जाता है, इसलिए मूल्यांकन के दौरान उम्मीदवार के चेहरे को कवर करने वाली कोई वस्तु नहीं होनी चाहिए (जो उम्मीदवार की पहचान छिपाने का इरादा रखता है), अन्यथा, 30 चेतावनियों के बाद लॉगिन अवरुद्ध हो जाएगा।</string>-->
+    <!--    <string name="welcome_item5">5.उम्मीदवारों को उस स्थान पर एक उज्ज्वल रोशनी वाले कमरे में मूल्यांकन देना चाहिए क्योंकि उम्मीदवार के चेहरे को दिखाई देने की आवश्यकता है।</string>-->
+    <!--    <string name="welcome_item6">6.मूल्यांकन के दौरान इयरफ़ोन / मोबाइल फोन के उपयोग की अनुमति नहीं दी जाएगी।</string>-->
+    <!--    <string name="welcome_item7"><![CDATA[7.इंटरनेट कनेक्शन न्यूनतम डाउनलोड गति 0.768 एमबीपीएस है, हालांकि 1.5 एमबीपीएस की सिफारिश की गई है और न्यूनतम अपलोड गति 0.384 एमबीपीएस है, हालांकि 1 एमबीपीएस की सिफारिश की गई है।]]></string>-->
+    <!--    <string name="welcome_item8"><![CDATA[8.उम्मीदवारों को साझा टेस्ट लिंक खोलना होगा या प्ले स्टोर से टेस्टा ऐप (एंड्रॉइड एप्लिकेशन) डाउनलोड करना होगा]]></string>-->
+    <!--    <string name="welcome_item9">9.परीक्षण करने के लिए, अनुशंसित ब्राउज़र Google Chrome (Ver। 75 या इसके बाद के संस्करण), मोज़िला फ़ायरफ़ॉक्स (Ver। 70 या इसके बाद के संस्करण) और Android 6+ Android उपकरणों के लिए ऊपर (Testa) हैं।</string>-->
+    <!--    <string name="welcome_ok">मैं समझ गया।</string>-->
+
+    <string name="welcome_txt1"> <br> 1.The candidate needs to keep the front camera/webcam on throughout the assessment. \n </br>उम्मीदवार को पूरे मूल्यांकन में फ्रंट कैमरा / वेब कैमरा रखने की आवश्यकता है। \n</string>
+    <string name="welcome_item2"> <br>2.The candidate must make sure that she/he is appearing for the assessments in an environment where there is least disturbance, intrusion, or interference by any members of the family/friends or any other third entity other than the authorized representative of Assessment Agency 8929486900(Sarvesh rai) or 7303099344(Vikul Bhatnagar).\n </br>उम्मीदवार को यह सुनिश्चित करना होगा कि वह उस वातावरण में आकलन के लिए उपस्थित हो रहा है, जहां परिवार के किसी भी सदस्य / मित्र या किसी अन्य तीसरी संस्था द्वारा कम से कम गड़बड़ी, घुसपैठ या हस्तक्षेप हो, जो आकलन एजेंसी के अधिकृत प्रतिनिधि के अलावा अन्य किसी अन्य संस्था से हो 8929486900 (सर्वेश राय) या 7303099344 (विकुल भटनागर)। \n</string>
+    <string name="welcome_item3"> <br>3.After starting the assessment if the candidate moves out of the camera and test window/ assessment page (web or app) more than 30 times, the login will be blocked and for that specific candidate assessment would stand as completed. \n </br> मूल्यांकन शुरू करने के बाद यदि उम्मीदवार कैमरा और परीक्षण विंडो / मूल्यांकन पृष्ठ (वेब ​​या ऐप) से 30 बार से अधिक चलता है, तो लॉगिन अवरुद्ध हो जाएगा और इसके लिए विशिष्ट उम्मीदवार मूल्यांकन "पूर्ण" के रूप में खड़ा होगा। \n</string>
+    <string name="welcome_item4"> <br>4.Since there is continuous face detection done during the test, there should not be any object covering the candidate’s face (which intends to hide the candidate’s identity) during the assessment, else, login will be blocked after 30 warnings.\n</br>चूंकि परीक्षण के दौरान लगातार चेहरे का पता लगाया जाता है, इसलिए मूल्यांकन के दौरान उम्मीदवार के चेहरे को कवर करने वाली कोई वस्तु नहीं होनी चाहिए (जो उम्मीदवार की पहचान छिपाने का इरादा रखता है), अन्यथा, 30 चेतावनियों के बाद लॉगिन अवरुद्ध हो जाएगा। \n</string>
+    <string name="welcome_item5"> <br>5.Candidates should give the assessment at that location in a brightly lit room as the candidate\'s face needs to be visible. \n </br> उम्मीदवारों को उस स्थान पर एक उज्ज्वल रोशनी वाले कमरे में मूल्यांकन देना चाहिए क्योंकि उम्मीदवार के चेहरे को दिखाई देने की आवश्यकता है। \n</string>
+    <string name="welcome_item6"><br>6.Use of earphones/Mobile phones shall not be permitted during the assessment.\n </br>मूल्यांकन के दौरान इयरफ़ोन / मोबाइल फोन के उपयोग की अनुमति नहीं दी जाएगी। \n</string>
+    <string name="welcome_item7"><br><![CDATA[7.Internet connection Minimum Download Speed of 0.768 Mbps, although 1.5 Mbps is recommended & Minimum Upload Speed of 0.384 Mbps, although 1 Mbps is recommended. \n ]]> </br>इंटरनेट कनेक्शन न्यूनतम डाउनलोड गति 0.768 एमबीपीएस है, हालांकि 1.5 एमबीपीएस की सिफारिश की गई है और न्यूनतम अपलोड गति 0.384 एमबीपीएस है, हालांकि 1 एमबीपीएस की सिफारिश की गई है। \n</string>
+    <string name="welcome_item8"><br><![CDATA[8.Internet connection Minimum Download Speed of 0.768 Mbps, although 1.5 Mbps is recommended & Minimum Upload Speed of 0.384 Mbps, although 1 Mbps is recommended. \n]]> </br>उम्मीदवारों को साझा टेस्ट लिंक खोलना होगा या प्ले स्टोर से टेस्टा ऐप (एंड्रॉइड एप्लिकेशन) डाउनलोड करना होगा \n</string>
+    <string name="welcome_item9"><br>9.For taking the test, recommended browsers are Google Chrome(Ver. 75 or above), Mozilla Firefox(Ver. 70 or above) and Android 6+ above devices for Android Application (Testa). \n </br>परीक्षण करने के लिए, अनुशंसित ब्राउज़र Google Chrome (Ver। 75 या इसके बाद के संस्करण), मोज़िला फ़ायरफ़ॉक्स (Ver। 70 या इसके बाद के संस्करण) और Android 6+ Android उपकरणों के लिए ऊपर (Testa) हैं। \n</string>
+    <string name="welcome_ok"><br>ठीक है मै समझ गया \n</br> </string>
+
+    <!--//Change Amar 26/04/2021-->
+    <string name="about">RPL-5.0 कार्यक्रम (ऑनलाइन RPL)</string>
+    <string name="rplintroheader"> • पूर्व शिक्षण की मान्यता (रिकग्निशन ऑफ प्रायर लर्निंग) राष्ट्रीय कौशल विकास निगम (NSDC) द्वारा कार्यान्वित
+                                    प्रधान मंत्री कौशल विकास योजना (PMKVY) के तहत कौशल विकास और उद्यमिता मंत्रालय (MSDE), भारत
+                                    सरकार (GOI) की एक पहल है। यह योजना अनियमित क्षेत्रों के आकृष्ट व्यक्तियों पर केंद्रित है।</string>
+    <string name="rplintroheader2"> • यह उन सभी के लिए है जो प्रमाण चाहते हैं। यह विशिष्ट नौकरी भूमिकाओं के लिए है जहां सैद्धाँतिक और
+                                    व्यावहारिक पक्षों का ऑनलाइन मूल्यांकन किया जाता है। यह एक व्यक्ति को उसके अपने स्थान से परीक्षा देने की
+                                    सुविधा देता है जिससे समय, ऊर्जा और अन्य मानव संसाधनों की बचत होती है।</string>
+
+
+    <string name="benefitsss2">आरपीएल 5.0 कार्यक्रम के लाभ- (कर्मचारियों के लिए ऑनलाइन आरपीएल)</string>
+    <string name="benefitss1"> 1)मूल्यांकन और प्रमाणन के लिए निःशुल्क</string>
+    <string name="benefitss2"> 2)सभी कौशल अन्वेषकों के लिए</string>
+    <string name="benefitss3"> 3)भारत के किसी भी स्थान से परीक्षा दे सकते हैं</string>
+    <string name="benefitss4"> 4)सफलतापूर्वक प्रमाणित उम्मीदवारों को ₹ 500 की अदायगी प्राप्त होगी</string>
+    <string name="benefitss5"> 5)INR 2 लाख तक का आकस्मिक बीमा 3 साल के लिए मुफ्त</string>
+    <string name="benefitss6"> 6)लागत प्रभावी प्रणाली</string>
+    <string name="benefitss7"> 7)इसके अतिरिक्त कौशल प्रमाणपत्र संबंधित कौशल क्षेत्र में अगले स्तर के कार्य की भूमिका निभाने में
+                                व्यक्तियों के लिए सहायक होता है।</string>
+
+    <string name="test_situations">परीक्षा के सवाल:</string>
+    <string name="duration">समयांतराल:</string>
+    <string name="select_a_test">एक परीक्षण चुनें</string>
+    <string name="something_went_wrong_try_again">कुछ गलत हो गया। \nकृपया पुन: प्रयास करें!</string>
+    <string name="mins">मिनट</string>
+    <string name="enter_otp">ओटीपी दर्ज करें</string>
+    <string name="verification_code">पुष्टि संख्या</string>
+    <string name="test_name">परीक्षण का नाम:</string>
+    <string name="test_duration">परीक्षण अवधि:</string>
+    <string name="test_description">विवरण परीक्षण:</string>
+    <string name="test_detail">परीक्षण विवरण</string>
+    <string name="aler_check_internet_connectivity">कृपया अपनी इंटरनेट कनेक्टिविटी जांचें</string>
+
+    <!--Play Store Rating comment-->
+    <string name="rate_app_title">एप्प का मूल्यांकन</string>
+    <string name="rate_app_message">यदि आप हमारे ऐप का आनंद ले रहे हैं, तो कृपया इसे PlayStore पर रेट करने के लिए कुछ समय दें। आपके समर्थन के लिए धन्यवाद!</string>
+    <string name="rate_btn_pos">अब रेट करें</string>
+    <string name="rate_btn_neg">
+मुझे बाद में याद दिलाना</string>
+    <string name="rate_btn_nut">जी नहीं, धन्यवाद</string>
+    <!-- Survay form freeTest-->
+    <string name="free_two">◦The content of the assessment was easy to understand</string>
+    <string name="free_three">◦Were you able to complete the assessment on time?</string>
+    <string name="free_four">◦Are you looking for higher studies?</string>
+    <string name="free_five">◦Do you want to do any specialization courses?</string>
+    <string name="free_six">◦Would you recommend this test to others?</string>
+    <string name="free_seven">◦Which type of assessment are you looking for in future?</string>
+    <string name="free_eight">◦Feel free to add any other comments or suggestions.</string>
+    <!--Video Recording-->
+    <string name="permission_request">This app needs permission for camera and audio recording.</string>
+    <string name="message_need_permission">Need Permissions</string>
+    <string name="message_permission">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="title_go_to_setting">GOTO SETTINGS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_stop">खेलें या रोकें</string>
+    <string name="no_description">कोई विवरण नहीं</string>
+
+
+</resources>
+

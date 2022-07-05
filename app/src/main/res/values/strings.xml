@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_back">Welcome</string>
+    <string name="skip">Skip</string>
+    <string name="login">Login</string>
+    <string name="email">Username</string>
+    <string name="password">Password</string>
+
+    <string name="organization">Organization</string>
+
+
+    <string name="app_name">TESTA</string>
+    <!--Date of change 13/8/2019 -->
+
+    <string name="Update_Profile"><u>Update Profile</u></string>
+    <string name="formats">Formats</string>
+
+
+    <string name="choose_formats">Choose Formats</string>
+    <string name="select_camera">Select a Camera</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+
+
+    <!-- hint name of field -->
+
+    <string name="line1">Total duration of examination is defined on the exam panel for %1$s.</string>
+    <string name="line22"><b>All the questions are mandatory. You need to answer all the questions in order to proceed.</b></string>
+    <string name="line2">The clock will be set at the server. The countdown timer in the top right corner of screen will display the remaining time available
+        for you to complete the examination.</string>
+    <string name="line3">The Question Palette displayed on the right side of screen will show the
+    status of each question using one of the following symbols:</string>
+    <string name="line4">If candidate did not answer the Question, it will be consider as <b>Not Answered</b> and the Exam will not be submitted.</string>
+    <string name="line5">There will be no negative marking.</string>
+    <string name="line6">To answer a question, do the following:</string>
+    <string name="line7">Click on the question number in the Question Palette at the right of your screen to go to that numbered question directly.
+        Note that using this option does NOT save your answer to the current question.</string>
+    <string name="line8">Click on <b>Mark for Review </b>to mark any question for review.</string>
+    <string name="line9">Procedure for answering a multiple choice type question:</string>
+    <string name="line10">To select your answer, click on the button of one of the options.</string>
+    <string name="line11">Click Skip, Previous or Next to move between questions.</string>
+    <string name="line13">Don\'t quit the application in between exam else the exam will not be submitted.</string>
+
+    <string name="rplintro"> • A certification program under PMKVY to provide recognition to the informal learning
+        or learning through work to get equal acceptance as the formal levels of education.</string>
+
+    <string name="rplintro2"> • It aims to appreciate prior learning irrespective of the medium of achieving it. In short, RPL is a process
+    of assessment of an individual’s prior learning to give due importance to learning as an outcome rather than learning as process.</string>
+
+
+    <string name="benefits2">Benefits Under RPL 4.0 – BICE</string>
+    <string name="benefitemp">Benefits to Employee :-</string>
+    <string name="benefit1"> 1)No fee charged for assessment and certification</string>
+    <string name="benefit2"> 2)Successfully certified candidates shall receive a pay-out of Rs 500</string>
+    <string name="benefit3"> 3) 3 year accidental insurance INR 2 Lakhs free of cost</string>
+    <string name="benefit4"> 4) Skill certificate can be further used for taking up next
+        level of job role in the respective skill sector</string>
+    <string name="hint_name">First Name*</string>
+
+    <string name="EmploymentDetails">Designation/Role*</string>
+    <string name="AnyOtherSector">Any Other Sector Please Specify*</string>
+
+    <string name="hint_last_name">Last Name*</string>
+    <string name="hint_mobile"> Mobile No*</string>
+    <string name="alt_hint_mobile">Alternate Number</string>
+    <string name="hint_email">Email Id*</string>
+    <string name="hint_address_line1">Address Line1*</string>
+    <string name="hint_city">Village/Town/City</string>
+    <string name="hint_cityy">Village/Town/City*</string>
+    <string name="hint_citymandi">Village/Town/City*</string>
+    <string name="Help">Logout</string>
+    <string name="save">Contact us</string>
+    <string name="search">FAQ</string>
+    <string name="Helpline">Submit Query</string>
+
+
+    <string name="hint_address_line2">Address Line2</string>
+    <string name="hint_pincode">Pincode*</string>
+    <string name="hint_other">Other*</string>
+    <string name="hint_other_id">Id Number*</string>
+    <string name="hint_qualification">Qualification*</string>
+    <string name="hint_aadhar">Aadhar No*</string>
+    <string name="hint_pancard">PAN Card*</string>
+    <string name="hint_empid">Employee ID/Seller ID</string>
+    <string name="hint_seller_empid">Employee ID/Seller ID*</string>
+    <string name="hint_empnm">Employer Name*</string>
+    <string name="hint_location">Store Location/Location</string>
+    <string name="hint_locationn">Work Location*</string>
+    <string name="hint_bank_ac">Bank Account No*</string>
+    <string name="hint_ifsc_code">IFSC Code*</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter a valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+
+
+    //error message
+    <string name="err_tech_stacks">It must be selected</string>
+    <string name="err_msg_foraadhar">Enter a valid 12 digit aadhar no</string>
+    <string name="err_msg_formobile">Enter a valid phone number</string>
+    <string name="err_msg_for_first_name">Enter a valid first name</string>
+    <string name="err_msg_for_employer_name">Enter Employer Name</string>
+    <string name="err_msg_for_last_name">Enter a valid Last name</string>
+    <string name="err_msg_for_address1">Enter a valid Address</string>
+    <string name="err_msg_for_village_town_city">Enter a valid Village /Town /City</string>
+    <string name="err_msg_for_tehsil_maandal_block">Enter a valid Tehsil /Maandal /Block</string>
+    <string name="err_msg_for_birthPlace">Enter a valid birth place</string>
+    <string name="err_msg_for_state">Select the State*</string>
+    <string name="err_msg_pincode">Enter a valid 6 Digit Pincode</string>
+    <string name="err_msg_for_namein_bank">Enter a valid bank name</string>
+    <string name="err_msg_for_ifsc">Enter a valid IFSC</string>
+    <string name="err_msg_for_sector">Select the Sector</string>
+    <string name="err_msg_for_acno">Enter a valid Bank Ac Number</string>
+    <string name="err_msg_for_guardian">Enter a valid guardian name</string>
+
+
+    <string-array name="gender">
+        <item>Select Gender*</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Transgender</item>
+
+    </string-array>
+
+    <string-array name="guardiantype">
+        <item>Select Guardian Type*</item>
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Brother</item>
+        <item>Sister</item>
+        <item>Husband</item>
+        <item>Uncle</item>
+        <item>Aunt</item>
+
+
+       <!-- <item>पिता</item>
+        <item>माँ</item>
+        <item>भाई</item>
+        <item>बहन</item>
+        <item>पति</item>
+        <item>चाचा</item>
+        <item>चाची</item>-->
+
+    </string-array>
+
+
+    <string-array name="guardiantype1">
+        <item>Select Guardian Type*</item>
+        <item>S/O</item>
+        <item>D/O</item>
+        <item>W/O</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="cast">
+        <item>Select Caste*</item>
+        <item>SC</item>
+        <item>ST</item>
+        <item>OBC</item>
+        <item>General</item>
+        <item>Others</item>
+
+
+    </string-array>
+
+    <string name="select_cast">Select Caste*</string>
+
+
+    <string-array name="Title">
+        <item>Select Title*</item>
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Ms</item>
+        <item>Mx</item>
+
+    </string-array>
+
+
+    <string-array name="heardTitle">
+        <item>Heard About Us</item>
+        <item>Internet</item>
+        <item>Friends/Relatives</item>
+        <item>Kaushal Mela</item>
+        <item>Newsletter</item>
+        <item>Others</item>
+    </string-array>
+
+
+    <string-array name="Disablity">
+        <item>Any Disability ?</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+
+    <string-array name="isEmployed">
+        <item>Employed*</item>
+        <item>Yes</item>
+        <item>No</item>
+
+    </string-array>
+
+    <string name="isEmploy">Employed*</string>
+
+
+    <string-array name="Employment_status_string">
+        <item>Select</item>
+        <item>Employee</item>
+        <item>Self Employed</item>
+
+    </string-array>
+
+
+    <string-array name="Employment_status_string_corporate">
+        <item>Employment Status*</item>
+        <item>Employed</item>
+        <item>Un Employed</item>
+        <item>Experienced but Currently Un Employed</item>
+        <item>Self Employed</item>
+    </string-array>
+
+
+    <string-array name="type_of_Disablity">
+        <item>Select Type of Disability</item>
+        <item>Blindness (Visually Impaired)</item>
+        <item>Low-Vision</item>
+        <item>Deaf</item>
+        <item>Hard of Hearing</item>
+        <item>Deaf and Blindness</item>
+        <item>Intellectual Disability</item>
+        <item>Dwarfism</item>
+        <item>Specific Learning Disabilities</item>
+        <item>Other</item>
+
+
+    </string-array>
+
+
+    <string-array name="type_of_Disablity_corporate">
+        <item>Select Type of Disability</item>
+        <item>Locomotor Disability</item>
+        <item>Leprosy Cured Person</item>
+        <item>Dwarfism</item>
+        <item>Acid Attack Victims</item>
+        <item>Blindness/Visual Impairment</item>
+        <item>Low-vision (Visual Impairment)</item>
+        <item>Deaf</item>
+        <item>Hard of Hearing</item>
+        <item>Speech and Language Disability</item>
+        <item>Intellectual Disability/Mental Retardation</item>
+        <item>Autism Spectrum Disorder</item>
+        <item>Specific Learning Disabilities</item>
+        <item>Mental Behavior-Mental Illness</item>
+        <item>Haemophilia</item>
+        <item>Thalassemia</item>
+        <item>Sickle Cell Disease</item>
+        <item>Deaf Blindness</item>
+        <item>Cerebral Palsy</item>
+        <item>Multiple Sclerosis</item>
+        <item>Muscular Dystrophy</item>
+
+
+    </string-array>
+
+
+    <string-array name="other_id_corporate">
+        <item>Identity proof*</item>
+        <item>PAN Card</item>
+        <item>Aadhar</item>
+        <item>Voter Id Card</item>
+        <item>Domicile Certificate</item>
+        <item>ST/SC Certificate</item>
+        <item>Permanent Residential Certificate (PRC)</item>
+        <item>Driving License</item>
+        <item>Ration Card, Birth Certificate issued by govt</item>
+        <item>BPL Card</item>
+        <item>National Population Register (NPR) Card</item>
+        <item>Identity proof by Gazetted officers</item>
+        <item>Passport</item>
+        <item>Jail Identification Card / Number</item>
+        <item>School leaving certificate / 10th certificate</item>
+        <item>Letter of domicile from SDM / DM / Govt. Authority</item>
+        <item>Other</item>
+
+
+    </string-array>
+    <string-array name="corporate_id_update">
+        <item>Identity proof*</item>
+        <item>PAN Card</item>
+        <item>Aadhar</item>
+        <item>Voter Id Card</item>
+        <item>Birth Certificate</item>
+        <item>Driving Licence</item>
+        <item>Permanent Residential Certificate (PRC)</item>
+        <item>Domicile Certificate</item>
+        <item>ST/SC Certificate</item>
+        <item>Ration Card</item>
+        <item>BPL Card</item>
+        <item>National Population Register (NPR) Card</item>
+        <item>Identity proof by Gazetted officers</item>
+        <item>Passport</item>
+        <item>Jail Identification Card/Number</item>
+        <item>School leaving certificate</item>
+        <item>10th certificate</item>
+        <item>Letter of domicile from SDM / DM</item>
+        <item>Govt. Authority</item>
+        <item>Other</item>
+
+    </string-array>
+
+
+    <string-array name="other_id">
+        <item>Alternate Id</item>
+        <item>Pan Card</item>
+        <item>Driving Licence</item>
+        <item>Birth Certificate</item>
+        <item>Voter Id Card</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="Year">
+        <item>Year</item>
+        <item>1947</item>
+        <item>1948</item>
+        <item>1949</item>
+        <item>1950</item>
+        <item>1951</item>
+        <item>1952</item>
+        <item>1953</item>
+        <item>1954</item>
+        <item>1955</item>
+        <item>1956</item>
+        <item>1957</item>
+        <item>1958</item>
+        <item>1959</item>
+        <item>1960</item>
+        <item>1961</item>
+        <item>1962</item>
+        <item>1963</item>
+        <item>1964</item>
+        <item>1965</item>
+        <item>1966</item>
+        <item>1967</item>
+        <item>1968</item>
+        <item>1969</item>
+        <item>1970</item>
+        <item>1971</item>
+        <item>1972</item>
+        <item>1973</item>
+        <item>1974</item>
+        <item>1975</item>
+        <item>1976</item>
+        <item>1977</item>
+        <item>1978</item>
+        <item>1979</item>
+        <item>1980</item>
+        <item>1981</item>
+        <item>1982</item>
+        <item>1983</item>
+        <item>1984</item>
+        <item>1985</item>
+        <item>1986</item>
+        <item>1987</item>
+        <item>1988</item>
+        <item>1989</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+    </string-array>
+
+
+    <string-array name="Year1">
+        <item>Year</item>
+        <item>1947</item>
+        <item>1948</item>
+        <item>1949</item>
+        <item>1950</item>
+        <item>1951</item>
+        <item>1952</item>
+        <item>1953</item>
+        <item>1954</item>
+        <item>1955</item>
+        <item>1956</item>
+        <item>1957</item>
+        <item>1958</item>
+        <item>1959</item>
+        <item>1960</item>
+        <item>1961</item>
+        <item>1962</item>
+        <item>1963</item>
+        <item>1964</item>
+        <item>1965</item>
+        <item>1966</item>
+        <item>1967</item>
+        <item>1968</item>
+        <item>1969</item>
+        <item>1970</item>
+        <item>1971</item>
+        <item>1972</item>
+        <item>1973</item>
+        <item>1974</item>
+        <item>1975</item>
+        <item>1976</item>
+        <item>1977</item>
+        <item>1978</item>
+        <item>1979</item>
+        <item>1980</item>
+        <item>1981</item>
+        <item>1982</item>
+        <item>1983</item>
+        <item>1984</item>
+        <item>1985</item>
+        <item>1986</item>
+        <item>1987</item>
+        <item>1988</item>
+        <item>1989</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+
+    </string-array>
+
+
+    <string-array name="Month">
+        <item>Month</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+
+    <string-array name="Date">
+        <item>Date</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="empid">
+        <item>Emp ID</item>
+        <item>UPICA-UP01</item>
+        <item>UPICA-UP02</item>
+        <item>UPICA-UP03</item>
+        <item>UPICA-UP04</item>
+        <item>UPICA-UP05</item>
+        <item>UPICA-UP06</item>
+        <item>UPICA-UP07</item>
+        <item>UPICA-UP08</item>
+
+
+    </string-array>
+
+
+    <string-array name="Education">
+        <item>Education*</item>
+        <item>Not Applicable</item>
+        <item>Upto 10th</item>
+        <item>Upto 12th</item>
+        <item>ITI</item>
+        <item>Polytechnic</item>
+        <item>Graduation</item>
+        <item>Above Graduation</item>
+        <item>Other</item>
+
+    </string-array>
+
+
+    <string-array name="EducationCorporate">
+        <item>Education*</item>
+        <item>Below 10th Standard</item>
+        <item>10th Standard Pass</item>
+        <item>12th Standard or Equivalent Passed</item>
+        <item>ITI</item>
+        <item>Polytechnic / Diploma</item>
+        <item>Graduation</item>
+        <item>Post-Graduation</item>
+        <item>Doctorate</item>
+
+    </string-array>
+
+
+    <string-array name="Employment">
+        <item>Are you employed?</item>
+        <item>Yes </item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="State">
+        <item>Select State</item>
+        <item>Yes </item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="Category">
+        <item>Select Category*</item>
+        <item>GEN</item>
+        <item>OBC</item>
+        <item>SC/ST</item>
+    </string-array>
+
+
+    <string-array name="CategoryCorporate">
+        <item>Select Category*</item>
+        <item>GEN</item>
+        <item>OBC</item>
+        <item>SC</item>
+        <item>ST</item>
+        <item>Not to be Disclosed</item>
+    </string-array>
+
+
+    //Amway_String
+
+
+    <string-array name="Amway_Select_the_Sector">
+        <item>Select the Sector</item>
+    </string-array>
+
+    <string-array name="Select_the_PSector">
+        <item>Previous Experience Sector*</item>
+    </string-array>
+    <string-array name="Select_the_PSectors">
+        <item>Previous Experience Sector</item>
+    </string-array>
+
+    <string-array name="Select_the_PJobrole">
+        <item> Previous Experience Jobrole </item>
+    </string-array>
+
+    <string-array name="Amway_Select_the_PrefferedLanguage">
+        <item>Select the Preferred Language</item>
+    </string-array>
+    <string-array name="Amway_Select_the_State">
+        <item>Select the State*</item>
+    </string-array>
+
+
+    <string-array name="Amway_Select_the_District">
+        <item>Select the District*</item>
+    </string-array>
+    <string-array name="Amway_Select_the_Employer">
+        <item>Select the Employer</item>
+    </string-array>
+    <string-array name="Amway_Select_the_Jobrole">
+        <item> Select the Jobrole </item>
+    </string-array>
+
+
+    <string name="amway_Year">Year</string>
+    <string name="amway_Gender">Select Gender*</string>
+
+    <string name="amway_Title">Select Title*</string>
+    <string name="amway_Guardian">Select Guardian Type*</string>
+    <string name="amway_categroy">Select Category*</string>
+    <string name="amway_state">Select the State*</string>
+    <string name="amway_District">Select the District*</string>
+    <string name="amway_Domicile_District">Select the Domicile District*</string>
+    <string name="amway_Eduction">Education*</string>
+    <string name="amway_Employer">Select the Employer</string>
+    <string name="amway_Disablity">Any Disability ?</string>
+    <string name="amway_Disablity_yes">Yes</string>
+    <string name="amway_type_of_disablity1">Select Type of Disability</string>
+    <string name="amway_otheridproof">Other Id Proof*</string>
+    <string name="amway_other">Other</string>
+    <string name="notapplicable">Not Applicable</string>
+
+
+    //Toast
+
+    <string name="amway_Year_Toast">Select  Year</string>
+    <string name="amway_Gender_Toast">Select  Gender</string>
+    <string name="amway_Title_Toast">Select  Title</string>
+    <string name="amway_Guardian_Toast">Select the Guardian</string>
+    <string name="amway_categroy_Toast">Select the categroy</string>
+    <string name="amway_State_Toast"> Select the State*</string>
+    <string name="amway_District_Toast">Select the District*</string>
+    <string name="amway_Eduction_Toast"> Select Education Details</string>
+    <string name="amway_Employer_Toast">Select the Employer</string>
+    <string name="amway_Employer_4_Toast">Enter Employee ID/Seller ID</string>
+    <string name="amway_Employer_work_loc">Enter Work Location </string>
+    <string name="amway_Disablity_Toast">Select  Disability</string>
+    <string name="amway_Disablit_type_Toast">Select  Disablity</string>
+    <string name="amway_otheridproof_Toast">Enter a Valid ID No</string>
+    <string name="amway_other_Employ_Toast">Enter valid Education Details</string>
+    <string name="amway_pancard_Toast">Enter a Valid Alternate Id OR Aadhar Card Number</string>
+    <string name="amway_Aadhar_Toast">Enter a valid Aadhar Card No</string>
+    <string name="amway_formErr_Toast">The form is not filled correctly.Please verify it and submit.</string>
+    <string name="amway_Language_Err_Toast">"Failed to fetch Language Details".</string>
+    <string name="amway_States_Err__Toast">Failed to fetch States.</string>
+    <string name="amway_Internet_Toast">Internet Not available.</string>
+
+
+    //Snackbar
+
+    <string name="amway_aadhar_snack">This Aadhaar number is invalid.Please input correct aadhaar number.</string>
+    <string name="employerlist">Select the Employer</string>
+    <string name="amway_District_Err">Failed to fetch Districts</string>
+    <string name="form_employee_Err">Failed to fetch Employers</string>
+    <string name="form_Sector_Err">Failed to fetch Sector Details</string>
+    <string name="form_job_role_ERR">Failed to fetch Job Roles</string>
+    <string name="Photo_Message">Click photos using default Camera Of the Device</string>
+    <string name="Saving_Err">Error Saving the details</string>
+    <string name="amway_year">Year</string>
+
+    <string name="amway_month">Month</string>
+    <string name="amway_date">Date</string>
+
+    <string name="Employer_Toast_Message_At_Select_Time">Please select your employer to proceed</string>
+    <string name="Choose_Company_Message">You have selected</string>
+    <string name="choose_company_message2">as your employer.Please Confirm to continue else cancel to change employer.</string>
+    <string name="Alert">Alert!</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Confirm">Confirm</string>
+    <string name="Company_Err">This is not a valid company Name</string>
+    <string name="Select_Bank">Select the Bank*</string>
+    <string name="Select_Bank_Toast">Bank  name must be selected</string>
+    <string name="amway_Category">Select Category</string>
+    <string name="Select_state">Select the State*</string>
+    <string name="Decleration_Message">Please check the declaration form.Please verify the form again and submit.</string>
+    <string name="Bank_Err">Failed to fetch Bank Details</string>
+    <string name="Form_failed">Failed to Update the profile.Please Try Again.</string>
+    <string name="Student_Err">Failed to fetch Student Details</string>
+    <string name="Photo_Err_Message">Your photo is not in correct format.Click another photo.</string>
+    <string name="Camera_Message">The file picked is invalid.Please use default camera to click Photos</string>
+    <string name="Face_Message">Could not set up the face detector!</string>
+    <string name="Ok">OK</string>
+    <string name="Global_ErrorResponse_Message">We Encounterd an Error. Please try again later</string>
+    <string name="Camera_granted">camera permission granted</string>
+    <string name="Camera_Denied">camera permission denied</string>
+    <string name="Location_Req">You need to enable permissions to display location !</string>
+    <string name="Google_Play_Req">You need to install Google Play Services to use the App properly</string>
+    <string name="Camera_Warning">You can Not Continue without Uploading your Photo</string>
+    <string name="Select_jobrole_global">Select the Jobrole</string>
+    <string name="Select_the_language_global">Select the Preferred Language</string>
+    <string name="Aadhar_msg">Aadhaar number can Not be left empty.</string>
+    <string name="Aadhar_msg2">This Aadhaar number is invalid.Please input correct aadhaar number.</string>
+    <string name="Asdhar_msg3">Given Aadhar number is already registered! Try using another Aadhar.</string>
+    <string name="Aadhar_Already_user_Message">You have already registered using this aadhar number with</string>
+    <string name="SignIn_Message">The required fields username and password can not be empty</string>
+    <string name="AlredyAttempt_Exam">You have already attempted the exam.</string>
+    <string name="Unable_login">Unable to Login</string>
+    <string name="Wrong_credentials">Wrong Credentials.</string>
+    <string name="Wrong_login">Wrong login id or password.</string>
+    <string name="Check_Internrt">Please check the Internet Connectivity.</string>
+    <string name="Exit_Alert_Message">Do you Really want to exit?</string>
+    <string name="No">No</string>
+    <string name="Choose_Language">Choose Exam Language</string>
+    <string name="Start_Exam1">Start Exam</string>
+    <string name="Internet_connectivity">Internet not available,Cross check your internet connectivity.</string>
+    <string name="Info">Info</string>
+    <string name="Mandatory_All_Question">Please answer all the questions since all questions are mandotary.</string>
+    <string name="Final_Message_submit">Schedule the test for the Final submit.</string>
+    <string name="Successfully_Attempted">You have successfully attempted the Assessment</string>
+    <string name="No_question_Ans">No Questions answered</string>
+    <string name="TimeOver_Alert">Your time is over. Press Yes to Schedule the test for the Final submit.</string>
+    <string name="Yes_Proceed">Yes And proceed</string>
+    <string name="Start_Viva_Exam">Start Viva Exam</string>
+    <string name="Alert_For_Next_Section">For Moving onto the next section click  yes and proceed.</string>
+    <string name="Exit_Alert">The exam will continue and the Timer will keep running. Are you sure you want to exit?</string>
+    <string name="Yes1" translatable="false">Yes</string>
+    <string name="profile_incomp">Your Profile is Incomplete</string>
+    <string name="Mark_Your_Atten_Welcome">Mark Your Attendance on the next page and kindly follow the instructions to start the Assessment.</string>
+    <string name="Choose_Sector">Choose the Sector</string>
+
+
+    <!--date:-16/8/2019-->
+
+    <string name="start">START</string>
+    <string name="Swipetobegin">SWIPE TO BEGIN</string>
+    <string name="upload_your_photo">UPLOAD YOUR PHOTO</string>
+    <string name="student_name">Student Name :-</string>
+    <string name="address">Address :-</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_your_company_name">Enter Your Company Name</string>
+    <string name="enter_your_ssc_name">Enter Your SSC Name</string>
+    <string name="ssc_name">SSC Name</string>
+    <string name="company_name">Company Name</string>
+    <string name="registration_details">Registration Details</string>
+    <string name="upload_your_aadhar_front">UPLOAD Aadhar Front</string>
+    <string name="upload_your_aadhar_back">UPLOAD Aadhar Back</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="candidate_details">Candidate Details</string>
+    <string name="address_details">Address Details</string>
+    <string name="qualification">Education Details</string>
+    <string name="employer_details">Employer Details</string>
+    <string name="employer_details_corporate">Company/Organisation Details</string>
+
+
+    <string name="course_details">Course Preference</string>
+    <string name="employment_status">Employment Status</string>
+    <string name="identification_details">Identification Details</string>
+    <string name="bank_details">Bank Details</string>
+    <string name="i_am_willing_to_declare_my_aadhar_details_for_pmkvy_rpl4_project">I am willing to declare my aadhar details for PMKVY RPL project</string>
+    <string name="name_as_in_bank">Account Holder\'s Name*</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Login</string>
+    <string name="scan_aadhar_qr_code">Scan Aadhar QR Code</string>
+    <string name="date_of_birth">Date of Birth*</string>
+    <string name="Attend_ERR_msg">Unable to mark Attendance.Try again later</string>
+
+
+    <!--date:-19/8/2019-->
+    Theory Question:
+
+    <string name="Previous">Previous</string>
+    <string name="MarkforReview">Mark for Review</string>
+    <string name="Next">Next</string>
+
+
+    <string name="father_first_name">Father First Name*</string>
+    <string name="father_last_name">Father Last Name*</string>
+    <string name="guardian_first_name">Guardian Name</string>
+    <string name="guardian_name">Guardian Name*</string>
+
+    <string name="guardian_last_name">Guardian Last Name</string>
+    <string name="update">UPDATE</string>
+    <string name="year_of_birth">Year of Birth*</string>
+    <string name="update_profile_for_assessment">Update profile</string>
+
+    <!--Date of change 13/8/2019 -->
+
+    <string name="intro_page">Introduction</string>
+    <string name="Registration">Registration</string>
+    <string name="Instruction">Instructions</string>
+    <string name="home">Home</string>
+    <string name="Attendence">Attendance</string>
+
+
+    <string name="flash_on">Turn flash On</string>
+    <string name="flash_off">Turn flash Off</string>
+    <string name="auto_focus_on">Turn focus</string>
+    <string name="auto_focus_off">Focus off</string>
+    <string name="crt_msg">Upload</string>
+    <string name="crt_upload_soon">Will be uploaded Soon</string>
+    <string name="hint_batch_id">Batch ID</string>
+    <string name="txtAppName">\tTesta</string>
+
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="picture">Picture</string>
+    <string name="txtTheory">Theory</string>
+    <string name="txtViva">Viva</string>
+
+    <string name="errUsrNameAuth">Entered <b>USERNAME</b> is incorrect.\n Please, Try with different Username.</string>
+    <string name="errPwdAuth">Entered <b>PASSWORD</b> is incorrect.\n Please, Try with different Password.</string>
+    <string name="new_user_register">New User ? Register</string>
+    <string name="txtNoLocation">Your Current Location</string>
+    <string name="examlockedmsg">Your Exam has been locked. Contact Administrator for further enquiries..</string>
+    <string name="location_warn">Fetching Location. Please, Wait</string>
+    <string name="photo1">Please Upload Photo as it is Mandatory</string>
+    <string name="login_appmessage">You are already logged in other device,Do you want to log out from other devices ?</string>
+    <string name="login_webMessage">You are already logged in other devices,Please logged out from browser to start Exam</string>
+    <string name="lg_again">Please Login Again!</string>
+    <string name="loc_ref">Loation Refreshed</string>
+    <string name="mark_atten">Please, Mark attendence again!</string>
+    <string name="loc_permi">You need to enable permissions to display location !</string>
+
+    <string name="mat_statusMale">Widower</string>
+    <string name="mat_statusFemale">Widowed</string>
+
+    <string name="Alertforexamlock">Please don\'t leave the Exam in Between. Doing this for three times in a row will lock the Exam and you will be logged out of the Exam.</string>
+    <string name="examlockedonquestionpaper">Since you have left exam more than 3 times Now your Exam will be locked.You will not be allowed to log in. For further help Please Contact Administrator.</string>
+    <string name="fetch_data">Unable to fetch data!</string>
+    <string name="Signin_failed">Unable to SignIn!,  Please, try again!</string>
+    <string name="Auth_failed">Authentication Failed</string>
+    <string name="choose_one">You must choose one of the options before moving to next.</string>
+
+    <string name="th_not_comp">Exam not completed, Please review again.</string>
+
+    <string name="th_comp">Exam completed, Do you want to proceed further?</string>
+
+    <string name="Dm_not_comp">Work Domain Exam Is Not Completed, Please Review Again.</string>
+
+    <string name="Dm_comp">Work Domain Exam Completed, Do you want To proceed Further?</string>
+
+    <string name="viva_not_cmp">Viva Theory Exam Is Not Completed, Please Review Again.</string>
+
+    <string name="viva_cmp">Viva Exam Completed, Do you want To proceed Further?</string>
+
+    <string name="blink_eyes">Please Blink your Eyes like this in order to click the Photo</string>
+    <string name="marked">Marked for Review</string>
+    <string name="Submit">Submit</string>
+    <string name="title_choose_file">Choose File Or Change Folder</string>
+    <string name="upload_document">Upload Document*</string>
+
+
+    <string name="father_s_name">Father\'s name*</string>
+    <string name="mother_name">Mother\'s name*</string>
+    <string name="correspondance_address_details">Correspondance Address</string>
+    <string name="heard_about_us_source">Heard about us-(source)</string>
+    <string name="th_block">Tehsil/Maandal/Block</string>
+
+    <string name="bank_address">Bank address*</string>
+
+
+    <string-array name="MonthsOfExperience">
+        <item>Months of Experience*</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <!--    <string-array name="YearsofExperience">
+        <item>Years of Experience*</item>
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>3</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>-->
+    <string-array name="YearsofExperience">
+        <item>Years of Experience*</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+
+    //string change by pk date 2 dec
+
+    <string name="Select_religion">Select Religion*</string>
+
+    <string name="Select_Martial">Choose Marital Status*</string>
+    <string name="Select_pp">Pre Training Status*</string>
+
+
+    <string name="Select_subsector">Select the Sub Sector</string>
+    <string name="Select_sector">Select the Sector</string>
+    <string name="year_of_passing">Year of Passing(YYYY)*</string>
+
+
+    <string name="Year_of_Prev_Exp">Years of Experience*</string>
+    <string name="Month_of_Prev_Exp">Months of Experience*</string>
+    <string name="Month_of_Prev_month_Exp">Select Months of Experience</string>
+
+
+    <string name="Other_Id">Alternate Id</string>
+
+    <string name="Other_Id_corporate">Identity proof*</string>
+
+
+    <string-array name="religion">
+        <item>Select Religion*</item>
+        <item>Not to be Disclosed</item>
+        <item>Hinduism</item>
+        <item>Islam</item>
+        <item>Christianity</item>
+        <item>Sikhism</item>
+        <item>Diasporic</item>
+        <item>Agnostic</item>
+        <item>Atheist</item>
+        <item>Bahai</item>
+        <item>Buddhism</item>
+        <item>Cao Dai</item>
+        <item>Chinese traditional religion</item>
+        <item>Jainism</item>
+        <item>Juche</item>
+        <item>Judaism</item>
+        <item>Neo-Paganism</item>
+        <item>Nonreligious</item>
+        <item>Rastafarianism</item>
+        <item>Secular</item>
+        <item>Shinto</item>
+        <item>Spiritism</item>
+        <item>Tenrikyo</item>
+        <item>Unitarian Universalism</item>
+        <item>Zoroastrianism</item>
+        <item>primal indigenous</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="religionss">
+        <item>Select Religion</item>
+        <item>Not to be Disclosed</item>
+        <item>Hinduism</item>
+        <item>Islam</item>
+        <item>Christianity</item>
+        <item>Sikhism</item>
+        <item>Diasporic</item>
+        <item>Agnostic</item>
+        <item>Atheist</item>
+        <item>Bahai</item>
+        <item>Buddhism</item>
+        <item>Cao Dai</item>
+        <item>Chinese traditional religion</item>
+        <item>Jainism</item>
+        <item>Juche</item>
+        <item>Judaism</item>
+        <item>Neo-Paganism</item>
+        <item>Nonreligious</item>
+        <item>Rastafarianism</item>
+        <item>Secular</item>
+        <item>Shinto</item>
+        <item>Spiritism</item>
+        <item>Tenrikyo</item>
+        <item>Unitarian Universalism</item>
+        <item>Zoroastrianism</item>
+        <item>primal indigenous</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="Pretraining">
+        <item>Pre Training Status*</item>
+        <item>Fresher</item>
+        <item>Experienced</item>
+    </string-array>
+    <string-array name="Pretrainingssc">
+        <item>Pre Training Status*</item>
+        <item>Experienced</item>
+    </string-array>
+
+
+    <string-array name="MaritalStatus">
+        <item>Choose Marital Status*</item>
+        <item>Single</item>
+        <item>Married</item>
+        <item>Widow</item>
+        <item>Divorced</item>
+    </string-array>
+
+    <string-array name="MaritalStatusMale">
+        <item>Choose Marital Status*</item>
+        <item>Single</item>
+        <item>Married</item>
+        <item>Widower</item>
+        <item>Divorced</item>
+    </string-array>
+
+
+    <string-array name="MaritalStatusCorporate">
+        <item>Choose Marital Status*</item>
+        <item>Single/Unmarried</item>
+        <item>Married</item>
+        <item>Widowed</item>
+        <item>Divorced</item>
+        <item>Separated</item>
+        <item>Not to be Disclosed</item>
+    </string-array>
+
+
+    <string name="tehsil_mandal_block">Tehsil/Mandal/Block</string>
+    <string name="tehsil_mandal_blockk">Tehsil/Mandal/Block*</string>
+
+
+    <!--//error msg change 3 dec by pk-->
+    <string name="err_msg_for_father">Enter Father\'s name </string>
+    <string name="err_msg_for_mother">Enter Mother\'s name </string>
+    <string name="err_msg_for_year">Enter a valid Passing Year(4 Digit allow)</string>
+    <string name="err_msg_for_religion">Select the religion</string>
+
+
+    <string name="err_msg_for_Martial">Select the Martial Status</string>
+
+    <string name="err_msg_for_Domicial_state">Select the Domicile state</string>
+    <string name="err_msg_for_Domicial_dis">Select the Domicile District</string>
+    <string name="err_msg_for_pre">Select the pre training status</string>
+
+
+    <string name="err_msg_for_Alternate_id_corporate">Select Identity proof</string>
+
+
+    <string name="err_msg_for_bank">Select Bank Name</string>
+    <string name="err_msg_for_education">Select the Education Details</string>
+    <string name="err_msg_for_disability">Select Disability</string>
+
+
+    <string name="err_msg_for_category">Select Category</string>
+    <string name="err_msg_for_gender1">Select  Gender</string>
+    <string name="err_msg_for_Year">Select Year</string>
+    <string name="err_msg_for_Month">Select Month</string>
+    <string name="err_msg_for_Date">Select Date</string>
+   <!-- //exp year and month-->
+    <string name="err_msg_for_years">Years of Experience*</string>
+    <string name="err_msg_for_select_year">Select Years of Experience</string>
+
+    <string name="is_permanent_address_same">Is Permanent address same?</string>
+    <string name="candidate_experience">Candidate Experience</string>\
+
+    <string name="select_district">Select District (Optional)</string>
+
+
+    <!--//DIVAkar-->
+    <string name="txtEnterBatchId">Enter Batch Id</string>
+    <string name="txtDownload">Download</string>
+    <string name="txtCandDetail">Candidate Detail</string>
+    <string name="txtBatchStatus">Batch Status</string>
+    <string name="txtSyncDetail">Sync Detail</string>
+    <string name="txtBatchDetail">Batch Detail</string>
+    <string name="txtSummary">Summary</string>
+    <string name="txtOverAll">Synced</string>
+    <string name="txtName">Name</string>
+    <string name="txtPhoto">Photo</string>
+    <string name="txtDataSyncDetail">Data Sync Detail</string>
+    <string name="txtSync">Sync</string>
+    <string name="txtTotalStu">Total Student</string>
+    <string name="txtDevice">Device: </string>
+    <string name="txtCompleted">Completed</string>
+    <string name="txtInValid">Invalid</string>
+    <string name="txtSelected">Start Exam</string>
+    <string name="txtSelect">Stop Exam</string>
+
+    <string-array name="filterCandidate">
+        <item>Select</item>
+        <item>Name</item>
+        <item>Batch ID</item>
+    </string-array>
+
+
+
+
+    <!--//Changes of 5th Dec-->
+
+    <string-array name="Select_the_DState">
+        <item>Select the Domicile State*</item>
+    </string-array>
+
+    <string-array name="Select_the_DDistrict">
+        <item>Select the Domicile District*</item>
+    </string-array>
+
+    <string name="select_domicile_statee">Select the Domicile State*</string>
+    <string name="select_domicile_districtt">Select the Domicile District*</string>
+    <string name="selectjobrole">Select the Jobrole*</string>
+    <string name="preffered_language">Your Preferred language*</string>
+
+    <string name="upload_documentnonmand">Upload Document</string>
+    <string name="constituency">Constituency</string>
+    <string name="declaration">Declaration</string>
+    <string name="_1_i_agree_to_provide_my_uidai_number_for_authentication_process_under_rpl_project">1.I agree to provide my UIDAI number for authentication process under RPL project</string>
+    <string name="_1_i_agree_to_provide_my_uidai_number_for_authentication_process_under_apprentice_project">1.I agree to provide my UIDAI number for authentication process under Apprentice project</string>
+    <string name="_2_the_data_entered_is_true_and_verified">2.The data entered is true and verified</string>
+    <string name="_2_the_data_entered_is_true_and_verified1">The data entered is true and verified</string>
+    <string name="_3_i_authorize_radiant_to_upload_my_information_on_sdms">3.I authorize Radiant to upload my information on Skill India Portal </string>
+
+    <string name="corporate_Agree">1.I agree to provide my Aadhar Number/Alternate Govt. Photo Identity Card Number for authentication purposes.</string>
+
+    <string name="corporate_Agree1">2.All the above information provided by me is true.</string>
+
+    <string name="corporate_Agree2">3.I authorize Radiant Infonet (P) Limited to upload my information on SDMS/SIP.</string>
+
+
+    <string-array name="jobroleselect">
+        <item>Select the Jobrole*</item>
+    </string-array>
+
+    <string-array name="subsectorselect">
+        <item>Select the Sub sector</item>
+    </string-array>
+
+    <string-array name="prefferedlanguageselect">
+        <item>Your Preferred language*</item>
+    </string-array>
+
+    <string-array name="banknameselect">
+        <item>Select the Bank*</item>
+    </string-array>
+
+
+    <!--//error messages in Hindi-->
+    <string name="err_msg_formobile_hi">एक मान्य फ़ोन नंबर दर्ज करें</string>
+    <string name="err_msg_for_first_name_hi">एक मान्य नाम दर्ज करें</string>
+    <string name="err_msg_for_first_name_hii">एम्प्लायर का नाम दर्ज करें</string>
+    <string name="err_msg_for_employer_id">एम्प्लोयी आयडी/सेलर आयडी</string>
+    <string name="err_msg_for_wrk_loc">वर्क लोकेशन</string>
+    <string name="err_msg_for_last_name_hi">एक मान्य अंतिम नाम दर्ज करें</string>
+    <string name="err_msg_for_address1_hi">एक मान्य पता दर्ज करें</string>
+    <string name="err_msg_pincode_hi">यह 6 अंकों का होना चाहिए</string>
+    <string name="err_msg_for_namein_bank_hi">अपना नाम बैंक पासबुक के आधार पे दर्ज करें</string>
+    <string name="err_msg_for_ifsc_hi">यह अल्फ़ान्यूमेरिक और कैपिटल लेटर्स में होना चाहिए</string>
+    <string name="err_msg_for_acno_hi">इसे लिखना होगा और यह 6 से 18 अंकों के बीच होना चाहिए |</string>
+    <string name="err_msg_for_father_hi">पिता का नाम दर्ज करें</string>
+    <string name="err_msg_for_year_hi">एक वैध पासिंग वर्ष (4 अंक अनुमत) दर्ज करें</string>
+    <string name="err_msg_for_mother_hi">माँ का नाम दर्ज करें</string>
+    <string name="err_msg_for_dateofassess_hi">Enter a valid Date of Assessment</string>
+    <string name="err_msg_for_birthPlace1">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+    <string name="err_msg_for_guardian_hi">यह फॉर्म में होना चाहिए, खाली नहीं होना चाहिए</string>
+
+
+    <string name="err_msg_email_hi">मान्य ईमेल दर्ज करें</string>
+
+    <string name="prev_sector">Previous Experience Sector*</string>
+    <string name="prev_sectorss">Previous Experience Sector</string>
+    <string name="txtDownloadedBatch">Download Batch</string>
+
+    <string name="txtSynced">Synced</string>
+    <string name="txtPleaseWait">Please wait</string>
+    <string name="txtDoSync">Sync</string>
+    <string name="txtPending">Pending</string>
+
+
+    //Vipin <!--12-dec-2019-->
+    <string name="apprentice_id">Apprentice ID*(as per Portal)</string>
+    <string name="fulladdress">Address*</string>
+
+    <string name="employer_assessor_name">Employer Assessor Name*</string>
+    <string name="employer_assessor_emaild">Employer Assessor Email ID*</string>
+    <string name="employer_assessor_phone_no">Employer Assessor Phone No*</string>
+
+    <string name="apprenticeIDerror">Enter valid Apprentice ID</string>
+    <string name="examination_details">Examination Details</string>
+    <string name="employer_spoc_name">Employer SPOC Name</string>
+    <string name="employer_spoc_phone_no">Employer SPOC Phone No</string>
+    <string name="employer_spoc_email_id">Employer SPOC email id</string>
+    <string name="date_of_assessment">Date of Assessment*</string>
+    <string name="err_msg_for_city_hi">शहर का नाम दर्ज करें</string>
+    <string name="apprenticeIDerror_hi">अपरेंटिस की आइडी दर्ज करे</string>
+    <string name="err_msg_for_EmpAname_hi">आंकलनकर्ता का नाम दर्ज करें</string>
+    <string name="err_msg_for_EmpemailID_hi">आंकलनकर्ता की ईमेल आईडी दर्ज करें</string>
+    <string name="err_msg_for_EmpphoneNo_hi">आंकलनकर्ता का फ़ोन न. दर्ज करें</string>
+    <string name="amway_aadhar_snack_hi">आधार न. वैध नहीं है</string>
+    <string name="errorforwrongform">All fields are mandatory.Please check the form for errors</string>
+
+    <string name="err_msg_for_name">Enter a valid name</string>
+    <string name="err_msg_for_city">Enter a valid City Name</string>
+    <string name="hint_citymand">Enter a valid City Name*</string>
+
+
+    <string name="err_msg_for_EmpAname">Enter a valid Employer Assessor name</string>
+    <string name="err_msg_for_EmpemailID">Enter a valid Employer Assessor Email ID</string>
+    <string name="err_msg_for_EmpphoneNo">Enter a valid Employer Assessor Phoneno</string>
+
+    <!--//Changes by pjha-->
+    <string name="Benefits1"> 1) Candidates will be provided Skill Certificate and Mark sheet to the candidate. If the mobile number of the candidate is recorded, the PIA should notify them of the aforementioned details via SMS.</string>
+    <string name="Benefits2"> 2) Candidates will be provided with Pay-Out 500\u20B9 based on their eligibility. The Pay-Out will be directly deposited to candidate’s registered  bank account that is linked with Aadhar. So ensure to provide aadhar linked bank  details on registration form upon enrolment.</string>
+    <string name="Benefits3">3) All RPL certified candidates shall receive accidental insurance of three years from New India Assurance Company Limited. The insurance money for the candidates shall be deducted from the PIA Pay-Out. A unique policy number of the Accidental Insurance is mentioned on the certificate that is to be awarded to respective certified candidates</string>
+    <string name="benifit_rpl1">Benefits Under RPL-1 For Employee: </string>
+    <string name="benifit_rpl2">Benefits Under RPL-2 For Employee: </string>
+    <string name="benifit_rpl3">Benefits Under RPL-3 For Employee: </string>
+    <string name="SchemeRpl1"> * Recognition of Prior Learning (RPL) is an initiative of the Government of India (GoI), Ministry of Skill Development and Entrepreneurship (MSDE) under Pradhan Mantri Kaushal Vikas Yojana (PMKVY), implemented by the National Skill Development Corporation (NSDC).</string>
+
+    <string name="SchemeRpl2">Primarily Objectives of RPL-1:</string>
+    <string name="SchemeRpl21">Primarily Objectives of RPL-2:</string>
+    <string name="SchemeRpl211">Primarily Objectives of RPL-3:</string>
+
+
+    <string name="SchemeRpl3"> • To align the competencies of the pre existing workforce of the country to the standardized National Skills Qualification Framework (NSQF)</string>
+    <string name="SchemeRpl4"> • To enhance the employability and/or entrepreneurial opportunities of an individual</string>
+    <string name="SchemeRpl5"> • To provide opportunities for reducing inequalities based on privileging certain forms of knowledge over others.</string>
+
+
+    <string name="enter_your_scheme">Choose Your Scheme</string>
+    <string name="Scheme_name">Scheme Name*</string>
+    <string name="schemeMsg">Please Select Scheme ,it is Mandatory</string>
+    <string name="companytitle"><![CDATA[Scheme & Company]]></string>
+
+
+    <string name="prev_jobrole">Previous Experience Jobrole</string>
+
+
+    <string name="Exp">Experienced</string>
+    <string name="decboxvalidation">Please check the declaration box</string>
+    <string name="upload_bank_document">Upload Bank Document</string>
+    <string name="birth_place">Birth Place*</string>
+
+
+    <string name="vs1">1 Duration of the test will be 50 mins.</string>
+    <string name="vs2">2 All questions are compulsory.</string>
+    <string name="vs3">3 The Question Palette displayed on the right side of screen will show the status of each question using one of the following symbols:
+</string>
+    <string name="vs4">3.1  You have marked the answer for review.
+</string>
+    <string name="vs5">3.2 You have saved the answer.</string>
+    <string name="vs6">3.3 You have not attempted the question</string>
+    <string name="vs7">4 Multiple selection of answers is not allowed i.e. all questions have 1 correct answer.
+</string>
+    <string name="vs8">5 Click on Save &amp; Next to save your answer for the current question and then it will go to the next question.
+</string>
+    <string name="vs9">6 Students must complete the 25-question multiple-choice exam within the 50-minute time frame allotted for the exam.
+</string>
+    <string name="vs10">7 Don\'t close the app and don\'t go out in between the assessment.
+</string>
+    <string name="contactMarque">For Any Query Please Contact Us 8929486900/8929486904/7303099344/7303507547</string>
+    <string name="click_for_company">Choose Your Company</string>
+    <string name="training_end_date">Training End Date</string>
+    <string name="training_start_date">Training Start Date</string>
+    <string name="apprentice_designation">Assessor Designation</string>
+    <string name="apprentice_contract_id">Apprentice Contract ID</string>
+    <string name="organisation_id">Organisation Id</string>
+
+
+    //new string added by pankaj
+
+
+    <string name="channel_error_title">Connection error</string>
+    <string name="ok">OK</string>
+    <string name="switch_camera">Switch front/back camera</string>
+    <string name="capture_format_change_text">Slide to change capture format</string>
+    <string name="toggle_mic">Toggle microphone on/off</string>
+    <string name="connect_description">Connect to the room</string>
+
+    <!-- Settings strings. -->
+
+    <string name="pref_videosettings_key">video_settings_key</string>
+    <string name="pref_videosettings_title">WebRTC video settings.</string>
+
+    <string name="pref_videocall_key">videocall_preference</string>
+    <string name="pref_videocall_title">Video call.</string>
+    <string name="pref_videocall_dlg">Enable video in a call.</string>
+    <string name="pref_videocall_default">true</string>
+
+    <string name="pref_screencapture_key">screencapture_preference</string>
+    <string name="pref_screencapture_title">Use screencapture.</string>
+    <string name="pref_screencapture_default">false</string>
+
+    <string name="pref_camera2_key">camera2_preference</string>
+    <string name="pref_camera2_title">Use Camera2.</string>
+    <string name="pref_camera2_default">true</string>
+
+    <string name="pref_resolution_key">resolution_preference</string>
+    <string name="pref_resolution_title">Video resolution.</string>
+    <string name="pref_resolution_dlg">Enter AppRTC local video resolution.</string>
+    <string name="pref_resolution_default">Default</string>
+
+    <string name="pref_fps_key">fps_preference</string>
+    <string name="pref_fps_title">Camera fps.</string>
+    <string name="pref_fps_dlg">Enter local camera fps.</string>
+    <string name="pref_fps_default">Default</string>
+
+    <string name="pref_capturequalityslider_key">capturequalityslider_preference</string>
+    <string name="pref_capturequalityslider_title">Capture quality slider.</string>
+    <string name="pref_capturequalityslider_dlg">Enable slider for changing capture quality.</string>
+    <string name="pref_capturequalityslider_default">false</string>
+
+    <string name="pref_maxvideobitrate_key">maxvideobitrate_preference</string>
+    <string name="pref_maxvideobitrate_title">Maximum video bitrate setting.</string>
+    <string name="pref_maxvideobitrate_dlg">Maximum video bitrate setting.</string>
+    <string name="pref_maxvideobitrate_default">Default</string>
+
+    <string name="pref_maxvideobitratevalue_key">maxvideobitratevalue_preference</string>
+    <string name="pref_maxvideobitratevalue_title">Video encoder maximum bitrate.</string>
+    <string name="pref_maxvideobitratevalue_dlg">Enter video encoder maximum bitrate in kbps.</string>
+    <string name="pref_maxvideobitratevalue_default">1700</string>
+
+    <string name="pref_videocodec_key">videocodec_preference</string>
+    <string name="pref_videocodec_title">Default video codec.</string>
+    <string name="pref_videocodec_dlg">Select default video codec.</string>
+    <string name="pref_videocodec_default">VP8</string>
+
+    <string name="pref_hwcodec_key">hwcodec_preference</string>
+    <string name="pref_hwcodec_title">Video codec hardware acceleration.</string>
+    <string name="pref_hwcodec_dlg">Use hardware accelerated video codec (if available).</string>
+    <string name="pref_hwcodec_default">true</string>
+
+    <string name="pref_capturetotexture_key">capturetotexture_preference</string>
+    <string name="pref_capturetotexture_title">Video capture to surface texture.</string>
+    <string name="pref_capturetotexture_dlg">Capture video to textures (if available).</string>
+    <string name="pref_capturetotexture_default">true</string>
+
+    <string name="pref_flexfec_key">flexfec_preference</string>
+    <string name="pref_flexfec_title">Codec-agnostic Flexible FEC.</string>
+    <string name="pref_flexfec_dlg">Enable FlexFEC.</string>
+    <string name="pref_flexfec_default">false</string>
+
+    <string name="pref_audiosettings_key">audio_settings_key</string>
+    <string name="pref_audiosettings_title">WebRTC audio settings.</string>
+
+    <string name="pref_startaudiobitrate_key">startaudiobitrate_preference</string>
+    <string name="pref_startaudiobitrate_title">Audio bitrate setting.</string>
+    <string name="pref_startaudiobitrate_dlg">Audio bitrate setting.</string>
+    <string name="pref_startaudiobitrate_default">Default</string>
+
+    <string name="pref_startaudiobitratevalue_key">startaudiobitratevalue_preference</string>
+    <string name="pref_startaudiobitratevalue_title">Audio codec bitrate.</string>
+    <string name="pref_startaudiobitratevalue_dlg">Enter audio codec bitrate in kbps.</string>
+    <string name="pref_startaudiobitratevalue_default">32</string>
+
+    <string name="pref_audiocodec_key">audiocodec_preference</string>
+    <string name="pref_audiocodec_title">Default audio codec.</string>
+    <string name="pref_audiocodec_dlg">Select default audio codec.</string>
+    <string name="pref_audiocodec_default">OPUS</string>
+
+    <string name="pref_noaudioprocessing_key">audioprocessing_preference</string>
+    <string name="pref_noaudioprocessing_title">Disable audio processing.</string>
+    <string name="pref_noaudioprocessing_dlg">Disable audio processing pipeline.</string>
+    <string name="pref_noaudioprocessing_default">false</string>
+
+    <string name="pref_aecdump_key">aecdump_preference</string>
+    <string name="pref_aecdump_title">Create aecdump.</string>
+    <string name="pref_aecdump_dlg">Enable diagnostic audio recordings.</string>
+    <string name="pref_aecdump_default">false</string>
+
+    <string name="pref_opensles_key">opensles_preference</string>
+    <string name="pref_opensles_title">Use OpenSL ES for audio playback.</string>
+    <string name="pref_opensles_dlg">Use OpenSL ES for audio playback.</string>
+    <string name="pref_opensles_default">false</string>
+
+    <string name="pref_disable_built_in_aec_key">disable_built_in_aec_preference</string>
+    <string name="pref_disable_built_in_aec_title">Disable hardware AEC.</string>
+    <string name="pref_disable_built_in_aec_dlg">Disable hardware AEC.</string>
+    <string name="pref_disable_built_in_aec_default">false</string>
+
+    <string name="pref_disable_built_in_agc_key">disable_built_in_agc_preference</string>
+    <string name="pref_disable_built_in_agc_title">Disable hardware AGC.</string>
+    <string name="pref_disable_built_in_agc_dlg">Disable hardware AGC.</string>
+    <string name="pref_disable_built_in_agc_default">false</string>
+
+    <string name="pref_disable_built_in_ns_key">disable_built_in_ns_preference</string>
+    <string name="pref_disable_built_in_ns_title">Disable hardware NS.</string>
+    <string name="pref_disable_built_in_ns_dlg">Disable hardware NS.</string>
+    <string name="pref_disable_built_in_ns_default">false</string>
+
+    <string name="pref_enable_level_control_key">enable_level_control_preference</string>
+    <string name="pref_enable_level_control_title">Enable level control.</string>
+    <string name="pref_enable_level_control_default">false</string>
+
+    <string name="pref_speakerphone_key">speakerphone_preference</string>
+    <string name="pref_speakerphone_title">Speakerphone.</string>
+    <string name="pref_speakerphone_dlg">Speakerphone.</string>
+    <string name="pref_speakerphone_default">auto</string>
+
+    <string name="pref_datasettings_key">data_settings_key</string>
+    <string name="pref_datasettings_title">WebRTC data channel settings.</string>
+
+    <string name="pref_enable_datachannel_key">enable_datachannel_preference</string>
+    <string name="pref_enable_datachannel_title">Enable datachannel.</string>
+    <string name="pref_enable_datachannel_default" translatable="false">true</string>
+
+    <string name="pref_ordered_key">ordered_preference</string>
+    <string name="pref_ordered_title">Order messages.</string>
+    <string name="pref_ordered_default" translatable="false">true</string>
+
+    <string name="pref_data_protocol_key">Subprotocol</string>
+    <string name="pref_data_protocol_title">Subprotocol.</string>
+    <string name="pref_data_protocol_dlg">Enter subprotocol.</string>
+    <string name="pref_data_protocol_default" translatable="false"></string>
+
+    <string name="pref_negotiated_key">negotiated_preference</string>
+    <string name="pref_negotiated_title">Negotiated.</string>
+    <string name="pref_negotiated_default" translatable="false">false</string>
+
+    <string name="pref_max_retransmit_time_ms_key">max_retransmit_time_ms_preference</string>
+    <string name="pref_max_retransmit_time_ms_title">Max delay to retransmit.</string>
+    <string name="pref_max_retransmit_time_ms_dlg">Enter max delay to retransmit (in ms).</string>
+    <string name="pref_max_retransmit_time_ms_default" translatable="false">-1</string>
+
+    <string name="pref_max_retransmits_key">max_retransmits_preference</string>
+    <string name="pref_max_retransmits_title">Max attempts to retransmit.</string>
+    <string name="pref_max_retransmits_dlg">Enter max attempts to retransmit.</string>
+    <string name="pref_max_retransmits_default" translatable="false">-1</string>
+
+    <string name="pref_data_id_key">data_id_preference</string>
+    <string name="pref_data_id_title">Data id.</string>
+    <string name="pref_data_id_dlg">Enter data channel id.</string>
+    <string name="pref_data_id_default" translatable="false">-1</string>
+
+    <string name="pref_miscsettings_key">misc_settings_key</string>
+    <string name="pref_miscsettings_title">Miscellaneous settings.</string>
+
+    <string name="pref_room_server_url_key">room_server_url_preference</string>
+    <string name="pref_room_server_url_title">Room server URL.</string>
+    <string name="pref_room_server_url_dlg">Enter a room server URL.</string>
+    <string name="pref_room_server_url_default" translatable="false">https://appr.tc</string>
+
+    <string name="pref_displayhud_key">displayhud_preference</string>
+    <string name="pref_displayhud_title">Display call statistics.</string>
+    <string name="pref_displayhud_dlg">Display call statistics.</string>
+    <string name="pref_displayhud_default" translatable="false">false</string>
+
+    <string name="pref_tracing_key">tracing_preference</string>
+    <string name="pref_tracing_title">Debug performance tracing.</string>
+    <string name="pref_tracing_dlg">Debug performance tracing.</string>
+    <string name="pref_tracing_default" translatable="false">false</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_room_id_that_has_been_shared">Enter Room Id that has been shared</string>
+    <string name="enter_room_id">Enter Room Id</string>
+    <string name="click_for_check_another_exam">Click for check another exam</string>
+    <string name="info">Info:</string>
+    <string name="if_you_complete_the_call_please_mark_the_complete_the_test">If you complete the Call please mark the complete the Test</string>
+    <string name="certificate_sample">Certificate Sample:-</string>
+    <string name="download">Download</string>
+    <string name="helpline_no">HelpLine No</string>
+    <string name="helpline_no_1">Helpline No 1</string>
+    <string name="helpline_no_2">Helpline No 2</string>
+    <string name="helpline_no_3">Helpline No 3</string>
+    <string name="tollfree">TollFree Number</string>
+
+    <string name="do_not_show_this_again">Do not show this again!</string>
+    <string name="is_correspondance_address_same">Is correspondance address same?</string>
+    <string name="pre_training_status">Pre-Training Status</string>
+    <string name="feedback_form">Feedback Form</string>
+    <string name="assessor_name">Assessor Name*</string>
+
+    <string name="_1_the_objective_of_the_assessment_was_clear_to_you">◦The objective of the assessment was clear to you.</string>
+    <string name="_2_the_assessor_was_supportive_and_helped_wherever_possible">◦The assessor was supportive and helped wherever possible.</string>
+    <string name="_3_the_language_and_content_of_the_assessment_was_easy_to_understand">◦The language and content of the assessment was easy to understand.</string>
+    <string name="_4_was_stipulated_time_provided_for_assessment">◦ Was stipulated time provided for assessment.</string>
+    <string name="_5_were_required_tools_and_equipment_available_at_the_centre">◦Were required tools and equipment available at the centre</string>
+    <string name="_6_feel_free_to_add_any_other_comments_or_suggestions">◦ Feel free to add any other comments or suggestions:</string>
+    <string name="type_here">Type here</string>
+
+    <string name="describe_your_problem">Describe your problem</string>
+    <string name="add_screenshot_optional">add screenshot (optional)</string>
+    <string name="next">Next</string>
+    <string name="otpreceviedText">Please enter the OTP received on %1$s.</string>
+    <string name="shr_error_password">OTP must contain at least 6 digits</string>
+    /Amar/
+    <string name="chlangen">Choose App Language</string>
+    <string name="text1"><font color='#0E0E0E'>Fill the details to Login</font></string>
+    <string name="text2"><font color='#0E0E0E'>Log in Account</font></string>
+    <string name="registers">Don\'t have an account?</string>
+    <string name="register1"><![CDATA[<font color="%1$s"><b> Register</b></font>]]></string>
+    <string name="mark">Mark your attendance one the next page and kindly follow the instructions to start the assessment</string>
+    <string name="first">First Name :</string>
+    <string name="question">Question</string>
+    <string name="thank"><u>No Thanks</u></string>
+
+    <string name="already_register_please_login">Already registered?</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="email_id">Enter Email Id</string>
+
+    <string name="ev_email_id">Enter Email Id (Optional)</string>
+
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="fill_the_details">Fill The Details</string>
+    <string name="submit">Submit</string>
+    <string name="or">Or</string>
+    <string name="already_login"><![CDATA[<font color="%1$s"><b>Please Login</b></font>]]></string>
+    <string name="verify_proceed"><![CDATA[verify & proceed]]></string>
+    <string name="didn_t_received_otp_resend"><![CDATA[Didn\'t receive OTP? <b><font color=#FF0000> Resend</font></b>]]></string>
+    /Amar/
+    <string name="free_test">Free Test</string>
+    <string name="video_call">Video Call</string>
+
+    <string name="help_and_support">Help and support</string>
+    <string name="become_an_assesor">Become an assessor</string>
+    <string name="register_for_exam">Register for Exam</string>
+    <string name="tvevent">Events</string>
+    <string name="register_for_event">Login/Register for Event</string>
+    <string name="lan_change">Change language</string>
+    <string name="terms_of_services_privacy"><![CDATA[Terms of Services & privacy]]></string>
+    <string name="device_location">Device Location</string>
+    <string name="device_location_data">It is mandatory for candidates to share the access of their location to mark the attendance digitally for online assessment. We understand the sensitivity of this topic and we do not share user data with anyone.</string>
+    <string name="storage_permission">Storage Permission</string>
+    <string name="storage_data">A candidate must share the access of their device storage to appear in online assessment. We require storage permission to capture candidate activity throughout the assessment and to mark their attendance. After assessment completion, we delete the captured images automatically. We do not delete user personal data.</string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="camera_permission_tv">Candidates must share the camera access of their device. Through this accessibility, we validate candidate identity for attendance, detect other faces present during the assessment, and capture images with a live webcam to maintain exam integrity.</string>
+    <string name="network_connection_tv">Network Connection Information</string>
+    <string name="network_data">A candidate must share their device network connectivity as we require the same to run hassle-free assessment during network interruption. Our application manages network connectivity for two modes of assessment i.e., offline and online so we do require the user network permission to conduct the assessment smoothly.</string>
+    <string name="microphone_permission">Microphone Permission</string>
+    <string name="microphone_tv">It is mandatory for candidates to share access to their microphones. With the microphone permission, we record the audio throughout the assessment to ensure a cheat-proof environment.</string>
+    <string name="phone_permission">Phone Permission</string>
+    <string name="phone_data">A candidate must share the access of their phone while appearing in the assessment in case the user needs to call the helpline number so we can connect them immediately.</string>
+    <string name="note_we_do_not_share_user_or_candidate_data_with_anyone">Note- We do not share user or candidate data with anyone.</string>
+    <string name="i_agree">I agree</string>
+    <string name="app_permissions">App Permissions</string>
+
+    <string-array name="reg_list">
+        <item>Recognition of\nprior learning\n(RPL)</item>
+        <item>National Apprenticeship\nPromotion Scheme\n(NAPS)</item>
+        <item>Visual\nMerchandising\nScreening\nTest</item>
+        <item>Ministry of Rural development\n(MORD)</item>
+        <item>Corporate</item>
+    </string-array>
+    <string name="privacy_policy">Privacy policy</string>
+
+
+    <string name="service_not_available">Service not available</string>
+    <string name="no_address_found">No address found</string>
+    <string name="invalid_lat_long_used">Invalid coordinates used</string>
+
+    <string name="welcome_guidelines"><b> <br>Guidelines \n </br>
+
+   दिशा-निर्देश </b></string>
+
+    <string name="welcome_txt1"> <br> 1.The candidate needs to keep the front camera/webcam on throughout the assessment. \n </br>उम्मीदवार को पूरे मूल्यांकन में फ्रंट कैमरा / वेब कैमरा रखने की आवश्यकता है। \n</string>
+    <string name="welcome_item2"> <br>2.The candidate must make sure that she/he is appearing for the assessments in an environment where there is least disturbance, intrusion, or interference by any members of the family/friends or any other third entity other than the authorized representative of Assessment Agency 8929486900(Sarvesh rai) or 7303099344(Vikul Bhatnagar).\n </br>उम्मीदवार को यह सुनिश्चित करना होगा कि वह उस वातावरण में आकलन के लिए उपस्थित हो रहा है, जहां परिवार के किसी भी सदस्य / मित्र या किसी अन्य तीसरी संस्था द्वारा कम से कम गड़बड़ी, घुसपैठ या हस्तक्षेप हो, जो आकलन एजेंसी के अधिकृत प्रतिनिधि के अलावा अन्य किसी अन्य संस्था से हो 8929486900 (सर्वेश राय) या 7303099344 (विकुल भटनागर)। \n</string>
+    <string name="welcome_item3"> <br>3.After starting the assessment if the candidate moves out of the camera and test window/ assessment page (web or app) more than 30 times, the login will be blocked and for that specific candidate assessment would stand as completed. \n </br> मूल्यांकन शुरू करने के बाद यदि उम्मीदवार कैमरा और परीक्षण विंडो / मूल्यांकन पृष्ठ (वेब ​​या ऐप) से 30 बार से अधिक चलता है, तो लॉगिन अवरुद्ध हो जाएगा और इसके लिए विशिष्ट उम्मीदवार मूल्यांकन "पूर्ण" के रूप में खड़ा होगा। \n</string>
+    <string name="welcome_item4"> <br>4.Since there is continuous face detection done during the test, there should not be any object covering the candidate’s face (which intends to hide the candidate’s identity) during the assessment, else, login will be blocked after 30 warnings.\n</br>चूंकि परीक्षण के दौरान लगातार चेहरे का पता लगाया जाता है, इसलिए मूल्यांकन के दौरान उम्मीदवार के चेहरे को कवर करने वाली कोई वस्तु नहीं होनी चाहिए (जो उम्मीदवार की पहचान छिपाने का इरादा रखता है), अन्यथा, 30 चेतावनियों के बाद लॉगिन अवरुद्ध हो जाएगा। \n</string>
+    <string name="welcome_item5"> <br>5.Candidates should give the assessment at that location in a brightly lit room as the candidate\'s face needs to be visible. \n </br> उम्मीदवारों को उस स्थान पर एक उज्ज्वल रोशनी वाले कमरे में मूल्यांकन देना चाहिए क्योंकि उम्मीदवार के चेहरे को दिखाई देने की आवश्यकता है। \n</string>
+    <string name="welcome_item6"><br>6.Use of earphones/Mobile phones shall not be permitted during the assessment.\n </br>मूल्यांकन के दौरान इयरफ़ोन / मोबाइल फोन के उपयोग की अनुमति नहीं दी जाएगी। \n</string>
+    <string name="welcome_item7"><br><![CDATA[7.Internet connection Minimum Download Speed of 0.768 Mbps, although 1.5 Mbps is recommended & Minimum Upload Speed of 0.384 Mbps, although 1 Mbps is recommended. \n ]]> </br>इंटरनेट कनेक्शन न्यूनतम डाउनलोड गति 0.768 एमबीपीएस है, हालांकि 1.5 एमबीपीएस की सिफारिश की गई है और न्यूनतम अपलोड गति 0.384 एमबीपीएस है, हालांकि 1 एमबीपीएस की सिफारिश की गई है। \n</string>
+    <string name="welcome_item8"><br><![CDATA[8.Internet connection Minimum Download Speed of 0.768 Mbps, although 1.5 Mbps is recommended & Minimum Upload Speed of 0.384 Mbps, although 1 Mbps is recommended. \n]]> </br>उम्मीदवारों को साझा टेस्ट लिंक खोलना होगा या प्ले स्टोर से टेस्टा ऐप (एंड्रॉइड एप्लिकेशन) डाउनलोड करना होगा \n</string>
+    <string name="welcome_item9"><br>9.For taking the test, recommended browsers are Google Chrome(Ver. 75 or above), Mozilla Firefox(Ver. 70 or above) and Android 6+ above devices for Android Application (Testa). \n </br>परीक्षण करने के लिए, अनुशंसित ब्राउज़र Google Chrome (Ver। 75 या इसके बाद के संस्करण), मोज़िला फ़ायरफ़ॉक्स (Ver। 70 या इसके बाद के संस्करण) और Android 6+ Android उपकरणों के लिए ऊपर (Testa) हैं। \n</string>
+    <string name="welcome_ok"><br>OK I Understand \n</br> </string>
+
+   <!-- //Change Amar 26/04/2021-->
+
+    <string name="about">About RPL-5.0 (Online RPL)</string>
+    <string name="rplintroheader"> • Recognition of Prior Learning (RPL) is an initiative of the Government of India (GoI), Ministry of Skill
+                                    Development and Entrepreneurship (MSDE) under Pradhan Mantri Kaushal Vikas Yojana (PMKVY),
+                                    implemented by the National Skill Development Corporation (NSDC). The scheme focuses on
+                                    engaging individuals of unregulated sectors.</string>
+    <string name="rplintroheader2"> • It is open to all those who want certification. It is limited to specific job roles where theory, and
+                                     practical are evaluated online. It allows an individual to take an exam from their location, which
+                                     saves time, energy and other human resources.</string>
+
+
+    <string name="benefitsss2">Benefits Under RPL-5.0- (Online RPL for employee)</string>
+    <string name="benefitss1"> 1)No fee for assessment and certification</string>
+    <string name="benefitss2"> 2)Open for all the skill seekers</string>
+    <string name="benefitss3"> 3)Can give the exam from any location in India</string>
+    <string name="benefitss4"> 4)Successfully certified candidates shall receive a pay-out of ₹ 500</string>
+    <string name="benefitss5"> 5)3-year accidental insurance INR 2 Lakhs free of cost</string>
+    <string name="benefitss6"> 6)Cost-effective method</string>
+    <string name="benefitss7"> 7)Furthermore, the skill certificate helps individuals in taking up the next level of job role in
+                              the respective skill sector.</string>
+    <string name="test_situations">Test Question:</string>
+    <string name="duration">Duration:</string>
+    <string name="select_a_test">Select a test</string>
+    <string name="something_went_wrong_try_again">Something went wrong. \nPlease try again!</string>
+    <string name="mins">Mins</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="test_name">Test Name:</string>
+    <string name="test_duration">Test Duration:</string>
+    <string name="test_description">Test Description:</string>
+    <string name="test_detail">Test Detail</string>
+    <string name="aler_check_internet_connectivity">Please Check Your Internet Connectivity</string>
+
+    <!--Play Store Rating comment-->
+    <string name="rate_app_title">Rate App</string>
+    <string name="rate_app_message">If you are enjoying our app, please take a moment to rate it on PlayStore. Thanks for your support!</string>
+    <string name="rate_btn_pos">Rate Now</string>
+    <string name="rate_btn_neg">Remind me later</string>
+    <string name="rate_btn_nut">No, Thanks</string>
+    <!-- Survay form freeTest-->
+    <string name="free_two">◦The content of the assessment was easy to understand</string>
+    <string name="free_three">◦Were you able to complete the assessment on time?</string>
+    <string name="free_four">◦Are you looking for higher studies?</string>
+    <string name="free_five">◦Do you want to do any specialization courses?</string>
+    <string name="free_six">◦Would you recommend this test to others?</string>
+    <string name="free_seven">◦Which type of assessment are you looking for in future?</string>
+    <string name="free_eight">◦Feel free to add any other comments or suggestions.</string>
+    <!--Video Recording-->
+    <string name="permission_request">This app needs permission for camera and audio recording.</string>
+    <string name="message_need_permission">Need Permissions</string>
+    <string name="message_permission">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="title_go_to_setting">GOTO SETTINGS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_stop">Play or Stop</string>
+    <string name="no_description">No Description</string>
+
+    <string name="select_any_one_event">Select any one Event</string>
+    <string name="join_events">Join Events</string>
+    <string name="title_activity_alert_choose_file">Select Image/File</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="face_detect_note">Note:-\n\u2022 Clean up the camera lens.\n\u2022 The Head angle should be straight.\n\u2022 Both eyes should be open.\n\u2022 Any object should be not in front of the face.\n\u2022 If you are wearing the masks please remove them.\n</string>
+    <string name="alertexit">Do you want to exit this App?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="contactus">Contact Us</string>
+    <string name="helpline_no_4">Helpline No 4</string>
+    <string name="assistcall">for Technical Assistance please call</string>
+
+    <string name="fullname">Enter full name*</string>
+    <string name="mobile">Enter 10 digit mobile number*</string>
+    <string name="email_address">Enter email address(Optional)</string>
+    <string name="inquiries">Explain your inquiries here*</string>
+    <string name="english">English</string>
+    <string name="submitquuery">Submit Query</string>
+    <string name="selectdistrict">Select the District*</string>
+    <string name="ads_number">ADS Number*</string>
+    <string name="selectpitchers">Select Picture</string>
+    <string name="camera">Camera</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="choose_file">Choose File</string>
+    <string name="cancel">Cancel</string>
+    <string name="note">If your remote practical exam is completed, then click on \'Ok\'  to attempt theory exam</string>
+    <string name="leftattempt">Your Viva Exam Is Left Do You Attempt Now?</string>
+    <string name="examcomplete">If your remote practical exam is completed, then click on OK for logout.</string>
+    <string name="alert">Alert</string>
+    <string name="exitpage">Do you want to exit this page?</string>
+    <string name="user">User</string>
+    <string name="attendance">Attendance</string>
+    <string name="removemask">Remove the Mask</string>
+    <string name="find">\"Finded \"</string>
+    <string name="face">\" Face\"</string>
+    <string name="headangle">Set the Head angle</string>
+    <string name="openaye">Please Open Both Eye</string>
+    <string name="removeobject">Please remove object on Face</string>
+    <string name="without_mask">without_mask</string>
+    <string name="videocall">Video Call</string>
+
+
+</resources>
+
+
+
+
+
+
+
+

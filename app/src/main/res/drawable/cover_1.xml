@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- drawable/cover_1.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="345dp"
+    android:height="782dp"
+    android:viewportWidth="345"
+    android:viewportHeight="782">
+
+    <group>
+
+        <clip-path android:pathData="M32 0H313C330.673 0 345 0 345 32V750C345 767.673 330.673 782 313 782H32C14.3269 782 0 767.673 0 750V32C0 0 0 0 32 0Z" />
+
+        <group
+            android:translateX="1.895"
+            android:translateY="-0.491"
+            android:pivotX="172.5"
+            android:pivotY="391"
+            android:scaleX="4.095"
+            android:scaleY="3.625"
+            android:rotation="119.327"
+            >
+
+            <path
+                android:pathData="M0 0V782H345V0">
+                <aapt:attr name="android:fillColor">
+
+                    <gradient
+                        android:type="linear"
+                        android:startX="172.5"
+                        android:startY="391"
+                        android:endX="258.75"
+                        android:endY="391">
+
+                        <item
+                            android:color="#94D7EC"
+                            android:offset="0.151" />
+
+                        <item
+                            android:color="#21BFDA"
+                            android:offset="0.823"/>
+                    </gradient>
+
+                </aapt:attr>
+
+            </path>
+
+        </group>
+
+    </group>
+
+</vector>
