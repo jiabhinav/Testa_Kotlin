@@ -11,4 +11,35 @@
         android:label="@string/home"
         tools:layout="@layout/fragment_home"/>
 
+    <fragment
+        android:id="@+id/nav_compdropdown"
+        android:name="com.radiant.rpl.testa_kotlin.ui.home.CompanyDropDownActivity"
+        android:label="@string/select"
+        tools:layout="@layout/fragment_company_drop_down_activity"/>
+
+    <fragment
+        android:id="@+id/nav_welcomepage"
+        android:name="com.radiant.rpl.testa_kotlin.ui.home.WelcomePage"
+        android:label="@string/welcome"
+        tools:layout="@layout/fragment_welcome_page"/>
+
+    <activity
+             android:id="@+id/nav_login"
+            android:name="com.radiant.rpl.testa_kotlin.auth.Login"
+            android:label="@string/login"
+            tools:layout="@layout/activity_login"/>
+
+    <fragment
+        android:id="@+id/nav_contactus"
+        android:name="com.radiant.rpl.testa_kotlin.ui.home.ContactUs"
+        android:label="@string/contactus"
+        tools:layout="@layout/fragment_contact_us"/>
+
+    <fragment
+        android:id="@+id/nav_submitquery"
+        android:name="com.radiant.rpl.testa_kotlin.ui.home.SubmitQuery"
+        android:label="@string/submitquuery"
+        tools:layout="@layout/fragment_submit_query"/>
+
+
 </navigation>

@@ -132,7 +132,7 @@
         <item>Aunt</item>
 
 
-       <!-- <item>पिता</item>
+        <!-- <item>पिता</item>
         <item>माँ</item>
         <item>भाई</item>
         <item>बहन</item>
@@ -148,7 +148,6 @@
         <item>S/O</item>
         <item>D/O</item>
         <item>W/O</item>
-
 
 
     </string-array>
@@ -1114,7 +1113,7 @@
     <string name="err_msg_for_Year">Select Year</string>
     <string name="err_msg_for_Month">Select Month</string>
     <string name="err_msg_for_Date">Select Date</string>
-   <!-- //exp year and month-->
+    <!-- //exp year and month-->
     <string name="err_msg_for_years">Years of Experience*</string>
     <string name="err_msg_for_select_year">Select Years of Experience</string>
 
@@ -1149,8 +1148,6 @@
         <item>Name</item>
         <item>Batch ID</item>
     </string-array>
-
-
 
 
     <!--//Changes of 5th Dec-->
@@ -1619,7 +1616,7 @@
     <string name="welcome_item9"><br>9.For taking the test, recommended browsers are Google Chrome(Ver. 75 or above), Mozilla Firefox(Ver. 70 or above) and Android 6+ above devices for Android Application (Testa). \n </br>परीक्षण करने के लिए, अनुशंसित ब्राउज़र Google Chrome (Ver। 75 या इसके बाद के संस्करण), मोज़िला फ़ायरफ़ॉक्स (Ver। 70 या इसके बाद के संस्करण) और Android 6+ Android उपकरणों के लिए ऊपर (Testa) हैं। \n</string>
     <string name="welcome_ok"><br>OK I Understand \n</br> </string>
 
-   <!-- //Change Amar 26/04/2021-->
+    <!-- //Change Amar 26/04/2021-->
 
     <string name="about">About RPL-5.0 (Online RPL)</string>
     <string name="rplintroheader"> • Recognition of Prior Learning (RPL) is an initiative of the Government of India (GoI), Ministry of Skill
@@ -1723,6 +1720,9 @@
     <string name="removeobject">Please remove object on Face</string>
     <string name="without_mask">without_mask</string>
     <string name="videocall">Video Call</string>
+    <string name="select">Select</string>
+    <string name="noInternetMsg">You are not connected to internet</string>
+    <string name="username">Enter username</string>
 
 
 </resources>

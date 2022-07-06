@@ -33,4 +33,9 @@
         <item name="android:textColor">#FFFFFF</item>
     </style>
 
+    <style name="Dialog.NoTitleBar" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
 </resources>

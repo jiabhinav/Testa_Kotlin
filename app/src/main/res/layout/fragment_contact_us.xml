@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_10sdp">
+
+        <TextView
+            android:id="@+id/Helpline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/helpline_no"
+            android:textAllCaps="true"
+            android:textColor="@color/nliveo_black_light"
+            android:textSize="@dimen/_14sdp"
+            android:textStyle="bold" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            app:cardCornerRadius="4dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp">
+
+                <TextView
+                    android:id="@+id/no11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1) "
+                    android:textAllCaps="true"
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+                <TextView
+                    android:id="@+id/no1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="8"
+                    android:text="@string/helpline_no_1"
+                    android:textAllCaps="false"
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+                <TextView
+                    android:id="@+id/call1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_toRightOf="@+id/no1"
+                    android:autoLink="phone"
+                    android:ems="7"
+                    android:padding="@dimen/_4sdp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/BBlue"
+                    android:textSize="@dimen/_14sdp" />
+            </LinearLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cn11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            app:cardCornerRadius="7dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp">
+
+                <TextView
+                    android:id="@+id/no22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2) "
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+                <TextView
+                    android:id="@+id/no2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="8"
+                    android:text="@string/helpline_no_2"
+                    android:textAllCaps="false"
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+
+                <TextView
+                    android:id="@+id/call2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_toRightOf="@+id/no2"
+                    android:autoLink="phone"
+                    android:ems="7"
+                    android:padding="@dimen/_4sdp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/BBlue"
+                    android:textSize="@dimen/_14sdp" />
+            </LinearLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cn111"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            app:cardCornerRadius="7dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp">
+
+                <TextView
+                    android:id="@+id/no33"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="3) "
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+                <TextView
+                    android:id="@+id/no3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="8"
+                    android:text="@string/helpline_no_3"
+                    android:textAllCaps="false"
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+
+                <TextView
+                    android:id="@+id/call3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_toRightOf="@+id/no3"
+                    android:autoLink="phone"
+                    android:ems="7"
+                    android:padding="@dimen/_4sdp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/BBlue"
+                    android:textSize="@dimen/_14sdp" />
+            </LinearLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cn1111"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:padding="@dimen/_4sdp"
+            app:cardCornerRadius="7dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp">
+
+                <TextView
+                    android:id="@+id/no44"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="4) "
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+                <TextView
+                    android:id="@+id/no4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="8"
+                    android:text="@string/helpline_no_4"
+                    android:textAllCaps="false"
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+
+                <TextView
+                    android:id="@+id/call4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:autoLink="phone"
+                    android:ems="7"
+                    android:padding="@dimen/_4sdp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/BBlue"
+                    android:textSize="@dimen/_14sdp"
+
+
+                    />
+            </LinearLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cn111111"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            app:cardCornerRadius="7dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp">
+
+                <TextView
+                    android:id="@+id/no66"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5) "
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+                <TextView
+                    android:id="@+id/no6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="8"
+                    android:text="@string/tollfree"
+                    android:textAllCaps="false"
+                    android:textColor="@color/nliveo_black_light"
+                    android:textSize="@dimen/_14sdp" />
+
+
+                <TextView
+                    android:id="@+id/call6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_toRightOf="@+id/no66"
+                    android:autoLink="phone"
+                    android:ems="7"
+                    android:padding="@dimen/_4sdp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/BBlue"
+                    android:textSize="@dimen/_14sdp"
+
+                    />
+            </LinearLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/Helpline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="70dp"
+        android:text="@string/assistcall"
+        android:textAllCaps="true"
+        android:textColor="@color/nliveo_black_light"
+        android:textSize="@dimen/_12sdp"
+
+
+        />
+
+    <TextView
+        android:id="@+id/Helpline22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:autoLink="phone"
+        android:linksClickable="true"
+        android:textAllCaps="true"
+        android:textColor="@color/BBlue"
+        android:textSize="18sp"
+
+
+        />
+
+
+</RelativeLayout>

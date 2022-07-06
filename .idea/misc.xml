@@ -3,23 +3,36 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/add_circle_outline.xml" value="0.2365" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/button_drawable.xml" value="0.254" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/cover_1.xml" value="0.182" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/cursor_color.xml" value="0.2365" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/gradient_spinner.xml" value="0.1715" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/ic_app_permission.xml" value="0.1885" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/ic_grade.xml" value="0.254" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/ic_privacy_policy.xml" value="0.1885" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/newicon.xml" value="0.1265" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/newicon2.xml" value="0.1265" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/splash1.xml" value="0.182" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/support.xml" value="0.1885" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/testa_logo_.xml" value="0.182" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/drawable/user.xml" value="0.254" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout-v28/activity_splash_screen.xml" value="0.25416666666666665" />
-        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/activity_login.xml" value="0.5609756097560976" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/activity_alert_choose_file.xml" value="0.18170158187259514" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/activity_login.xml" value="0.2586575459598119" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/activity_main.xml" value="0.615234375" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/activity_splash_screen.xml" value="0.4765625" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/app_bar_main.xml" value="0.5279187817258884" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/content_splash_screen.xml" value="0.25416666666666665" />
-        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/fragment_home.xml" value="0.5766016713091922" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/fragment_company_drop_down_activity.xml" value="0.615234375" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/fragment_contact_us.xml" value="0.24027362120564344" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/fragment_submit_query.xml" value="0.14792646430098333" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/fragment_welcome_page.xml" value="0.18469431380932022" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/icon_list.xml" value="0.25" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/nav_header_main.xml" value="0.615234375" />
+        <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/progress_bar_layout.xml" value="0.25181701581872595" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/splash1.xml" value="0.25416666666666665" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/layout/testa_logo_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Abhinav_Shukla_Docs/Testa_Kotlin/app/src/main/res/menu/activity_main_drawer.xml" value="0.3046875" />
